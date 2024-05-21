@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,59 +8,73 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Workbench  ",
+      "query": "path:\"11. Workbench\"  ",
       "color": {
         "a": 1,
         "rgb": 16753208
       }
     },
     {
-      "query": "path:\"07. Archive\"  ",
+      "query": "path:\"09. Archive\"  ",
       "color": {
         "a": 1,
         "rgb": 5257786
       }
     },
     {
-      "query": "path:\"06. Tags\"  ",
+      "query": "path:\"08. Tags\"  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "path:\"05. System/01. Templates\"  ",
+      "query": "path:\"07. System/01. Templates\"  ",
       "color": {
         "a": 1,
         "rgb": 6645075
       }
     },
     {
-      "query": "path:\"04. Resources\"  ",
+      "query": "path:\"06. Resources\"  ",
       "color": {
         "a": 1,
         "rgb": 11361494
       }
     },
     {
-      "query": "path:\"03. My Notes\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14935011
-      }
-    },
-    {
-      "query": "path:\"02. Chronicle\"  ",
+      "query": "path:\"05. Chronicle\"  ",
       "color": {
         "a": 1,
         "rgb": 6053078
       }
     },
     {
-      "query": "path:\"01. Dashboards\"  ",
+      "query": "path:\"04. My Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14935011
+      }
+    },
+    {
+      "query": "path:\"03. MoC\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1672781
+      }
+    },
+    {
+      "query": "path:\"02. Dashboards\"  ",
       "color": {
         "a": 1,
         "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"01. Favourites\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2336231
       }
     }
   ],
@@ -74,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3628873693012182,
-  "close": false
+  "scale": 0.2171315458123926,
+  "close": true
 }

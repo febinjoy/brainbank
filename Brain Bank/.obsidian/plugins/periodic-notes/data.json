@@ -4,19 +4,21 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "",
-    "template": "05. System/01. Templates/daily-note-template.md",
-    "folder": "02. Chronicle/01. Periodic Notes",
+    "template": "07. System/01. Templates/daily-note-template.md",
+    "folder": "05. Chronicle/01. Periodic Notes/Daily",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "template": "",
-    "folder": ""
+    "template": "07. System/01. Templates/weekly-template.md",
+    "folder": "05. Chronicle/01. Periodic Notes/Weekly",
+    "enabled": true
   },
   "monthly": {
     "format": "",
-    "template": "",
-    "folder": ""
+    "template": "07. System/01. Templates/monthly-template.md",
+    "folder": "05. Chronicle/01. Periodic Notes/Monthly",
+    "enabled": true
   },
   "quarterly": {
     "format": "",

@@ -1,28 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "type-requirements-spec",
-      "path": "06. Tags/type-requirements-spec.md"
+      "basename": "Out of Office - Tailored Response",
+      "path": "04. My Notes/Out of Office - Tailored Response.md"
     },
     {
-      "basename": "2024-05-20",
-      "path": "02. Chronicle/01. Periodic Notes/2024-05-20.md"
-    },
-    {
-      "basename": "1. ReadMe - Workbench",
-      "path": "Workbench/1. ReadMe - Workbench.md"
+      "basename": "monthly-template",
+      "path": "07. System/01. Templates/monthly-template.md"
     },
     {
       "basename": "daily-note-template",
-      "path": "05. System/01. Templates/daily-note-template.md"
+      "path": "07. System/01. Templates/daily-note-template.md"
+    },
+    {
+      "basename": "weekly-template",
+      "path": "07. System/01. Templates/weekly-template.md"
+    },
+    {
+      "basename": "type-action-item",
+      "path": "08. Tags/type-action-item.md"
+    },
+    {
+      "basename": "type-analysis",
+      "path": "08. Tags/type-analysis.md"
+    },
+    {
+      "basename": "type-monthly",
+      "path": "08. Tags/type-monthly.md"
+    },
+    {
+      "basename": "type-weekly",
+      "path": "08. Tags/type-weekly.md"
+    },
+    {
+      "basename": "checklist-template",
+      "path": "07. System/01. Templates/checklist-template.md"
+    },
+    {
+      "basename": "analysis-template",
+      "path": "07. System/01. Templates/analysis-template.md"
+    },
+    {
+      "basename": "type-requirements-spec",
+      "path": "08. Tags/type-requirements-spec.md"
     },
     {
       "basename": "note-template",
-      "path": "05. System/01. Templates/note-template.md"
+      "path": "07. System/01. Templates/note-template.md"
     },
     {
       "basename": "type-daily",
-      "path": "06. Tags/type-daily.md"
+      "path": "08. Tags/type-daily.md"
     }
   ],
   "omittedPaths": [],
