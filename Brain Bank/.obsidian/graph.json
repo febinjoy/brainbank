@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Workbench  ",
+      "color": {
+        "a": 1,
+        "rgb": 16753208
+      }
+    },
+    {
+      "query": "path:\"07. Archive\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5257786
+      }
+    },
+    {
+      "query": "path:\"06. Tags\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"05. System/01. Templates\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6645075
+      }
+    },
+    {
+      "query": "path:\"04. Resources\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:\"03. My Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14935011
+      }
+    },
+    {
+      "query": "path:\"02. Chronicle\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:\"01. Dashboards\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.3628873693012182,
+  "close": false
+}

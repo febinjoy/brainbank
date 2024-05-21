@@ -1,0 +1,8 @@
+{
+  "pinned": [
+    "obsidian-plugin-toc:create-toc",
+    "insert-template",
+    "file-diff:compare",
+    "better-export-pdf:export-current-file-to-pdf"
+  ]
+}
