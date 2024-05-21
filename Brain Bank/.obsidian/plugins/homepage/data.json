@@ -2,7 +2,7 @@
   "version": 3,
   "homepages": {
     "Main Homepage": {
-      "value": "01. Dashboards/My Quick Notes",
+      "value": "01. Kanban/Board - My Tasks",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",

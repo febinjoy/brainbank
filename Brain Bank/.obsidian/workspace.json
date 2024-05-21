@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "09979864bdc3099d",
+        "id": "5f9f25d239aad8b5",
         "type": "tabs",
         "children": [
           {
-            "id": "aec119928afe050a",
+            "id": "ef8e5b4acea130e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "01. Kanban/Board - My Tasks.md"
+              }
             }
           }
         ]
@@ -65,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 261.5
   },
   "right": {
     "id": "794953523c45717b",
@@ -82,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01. Kanban/Board - My Tasks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01. Kanban/Board - My Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01. Kanban/Board - My Tasks.md"
+              }
             }
           }
         ]
@@ -149,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +170,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "aec119928afe050a",
+  "active": "ef8e5b4acea130e1",
   "lastOpenFiles": [
     "02. Dashboards/Chronicle Dashboard.md",
     "01. Kanban/Board - My Tasks.md",
