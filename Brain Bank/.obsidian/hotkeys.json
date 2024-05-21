@@ -66,5 +66,17 @@
       ],
       "key": "K"
     }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [],
+      "key": "F10"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [],
+      "key": "F9"
+    }
   ]
 }
