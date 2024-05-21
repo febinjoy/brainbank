@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e140986c2859e42",
+        "id": "f7b8e328765e77e9",
         "type": "tabs",
         "children": [
           {
-            "id": "3f29bb5aff15564d",
+            "id": "97cb975048a6f57b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07. System/03. Logs/changelog.md",
+                "file": "02. Dashboards/Chronicle Dashboard.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07. System/03. Logs/changelog.md",
+                "file": "02. Dashboards/Chronicle Dashboard.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07. System/03. Logs/changelog.md",
+                "file": "02. Dashboards/Chronicle Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,12 +127,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07. System/03. Logs/changelog.md"
+                "file": "02. Dashboards/Chronicle Dashboard.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "f4cfec6a3de7ee15",
@@ -140,18 +139,18 @@
         "dimension": 41.08761329305136,
         "children": [
           {
-            "id": "c0ca9cf177276124",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "a3e63fa0d38278a6",
             "type": "leaf",
             "state": {
               "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0ca9cf177276124",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -159,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,16 +172,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3f29bb5aff15564d",
+  "active": "97cb975048a6f57b",
   "lastOpenFiles": [
+    "02. Dashboards/Notes Dashboard.md",
+    "02. Dashboards/Chronicle Dashboard.md",
+    "07. System/01. Templates/dashboard-template.md",
+    "01. Kanban/Tasks/Sample task.md",
+    "04. My Notes/Out of Office - Tailored Response.md",
+    "01. Kanban/My Tasks.md",
     "11. Workbench/My Dashboard.md",
+    "03. MoC/$programming.md",
+    "03. MoC/$personal-finance.md",
     "07. System/03. Logs/changelog.md",
     "08. Tags/leave-annual.md",
-    "01. Kanban/My Tasks.md",
     "11. Workbench/Untitled.md",
     "07. System/03. Logs",
-    "03. MoC/$personal-finance.md",
-    "01. Kanban/Tasks/Sample task.md",
     "11. Workbench/Sample task.md",
     "07. System/01. Templates/task-template.md",
     "01. Kanban/Tasks/Test.md",
@@ -193,7 +196,6 @@
     "01. Kanban/Tasks",
     "11. Workbench/2024-05-21.md",
     "03. MoC/$learning.md",
-    "03. MoC/$programming.md",
     "05. Chronicle/01. Daily/2024-05-21.md",
     "05. Chronicle/05. Yearly/2024.md",
     "08. Tags/type-yearly.md",
@@ -201,10 +203,6 @@
     "07. System/01. Templates/quarterly-template.md",
     "05. Chronicle/01. Periodic Notes/Daily/2024-05-21.md",
     "05. Chronicle/04. Quarterly",
-    "07. System/01. Templates/weekly-template.md",
-    "07. System/01. Templates/yearly-template.md",
-    "07. System/01. Templates/tutorials-planner-template.md",
-    "07. System/01. Templates/troubleshooting-template.md",
     "05. Chronicle/05. Yearly",
     "05. Chronicle/03. Monthly",
     "05. Chronicle/02. Weekly",
