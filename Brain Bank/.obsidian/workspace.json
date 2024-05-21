@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11. Workbench/My Dashboard.md",
+                "file": "07. System/03. Logs/changelog.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11. Workbench/My Dashboard.md",
+                "file": "07. System/03. Logs/changelog.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11. Workbench/My Dashboard.md",
+                "file": "07. System/03. Logs/changelog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11. Workbench/My Dashboard.md"
+                "file": "07. System/03. Logs/changelog.md"
               }
             }
           }
@@ -176,10 +176,11 @@
   },
   "active": "3f29bb5aff15564d",
   "lastOpenFiles": [
-    "01. Kanban/My Tasks.md",
-    "11. Workbench/Untitled.md",
     "11. Workbench/My Dashboard.md",
     "07. System/03. Logs/changelog.md",
+    "08. Tags/leave-annual.md",
+    "01. Kanban/My Tasks.md",
+    "11. Workbench/Untitled.md",
     "07. System/03. Logs",
     "03. MoC/$personal-finance.md",
     "01. Kanban/Tasks/Sample task.md",
@@ -204,7 +205,6 @@
     "07. System/01. Templates/yearly-template.md",
     "07. System/01. Templates/tutorials-planner-template.md",
     "07. System/01. Templates/troubleshooting-template.md",
-    "07. System/01. Templates/todo-list-template.md",
     "05. Chronicle/05. Yearly",
     "05. Chronicle/03. Monthly",
     "05. Chronicle/02. Weekly",

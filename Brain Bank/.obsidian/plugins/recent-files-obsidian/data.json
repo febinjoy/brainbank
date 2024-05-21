@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "changelog",
+      "path": "07. System/03. Logs/changelog.md"
+    },
+    {
       "basename": "My Dashboard",
       "path": "11. Workbench/My Dashboard.md"
     },
     {
-      "basename": "My Tasks",
-      "path": "01. Kanban/My Tasks.md"
+      "basename": "leave-annual",
+      "path": "08. Tags/leave-annual.md"
     },
     {
-      "basename": "changelog",
-      "path": "07. System/03. Logs/changelog.md"
+      "basename": "My Tasks",
+      "path": "01. Kanban/My Tasks.md"
     },
     {
       "basename": "$personal-finance",
