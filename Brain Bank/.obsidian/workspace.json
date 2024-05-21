@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5f9f25d239aad8b5",
+        "id": "52c90820c3376b51",
         "type": "tabs",
         "children": [
           {
-            "id": "ef8e5b4acea130e1",
+            "id": "dfe037f4c60d68e2",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "01. Kanban/Board - My Tasks.md"
+                "file": "07. System/01. Templates/dashboard-template.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Kanban/Board - My Tasks.md",
+                "file": "07. System/01. Templates/dashboard-template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Kanban/Board - My Tasks.md",
+                "file": "07. System/01. Templates/dashboard-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Kanban/Board - My Tasks.md"
+                "file": "07. System/01. Templates/dashboard-template.md"
               }
             }
           }
@@ -155,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,12 +172,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ef8e5b4acea130e1",
+  "active": "dfe037f4c60d68e2",
   "lastOpenFiles": [
+    "07. System/01. Templates/daily-note-template.md",
     "02. Dashboards/Chronicle Dashboard.md",
     "01. Kanban/Board - My Tasks.md",
-    "01. Kanban/Tasks/Sample task.md",
+    "07. System/01. Templates/checklist-template.md",
+    "07. System/01. Templates/action-item-template.md",
     "02. Dashboards/Notes Dashboard.md",
+    "01. Kanban/Tasks/Sample task.md",
     "07. System/01. Templates/dashboard-template.md",
     "04. My Notes/Out of Office - Tailored Response.md",
     "11. Workbench/My Dashboard.md",
@@ -190,7 +195,6 @@
     "01. Kanban/Tasks/Test.md",
     "07. System/01. Templates/kanban-template.md",
     "07. System/01. Templates/temporary-note.md",
-    "07. System/01. Templates/action-item-template.md",
     "01. Kanban/Tasks",
     "11. Workbench/2024-05-21.md",
     "03. MoC/$learning.md",
@@ -198,8 +202,6 @@
     "05. Chronicle/05. Yearly/2024.md",
     "08. Tags/type-yearly.md",
     "08. Tags/type-quarterly.md",
-    "07. System/01. Templates/quarterly-template.md",
-    "05. Chronicle/01. Periodic Notes/Daily/2024-05-21.md",
     "05. Chronicle/04. Quarterly",
     "05. Chronicle/05. Yearly",
     "05. Chronicle/03. Monthly",

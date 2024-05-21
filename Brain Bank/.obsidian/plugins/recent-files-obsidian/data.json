@@ -1,28 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "changelog",
-      "path": "07. System/03. Logs/changelog.md"
+      "basename": "dashboard-template",
+      "path": "07. System/01. Templates/dashboard-template.md"
     },
     {
-      "basename": "My Dashboard",
-      "path": "11. Workbench/My Dashboard.md"
+      "basename": "daily-note-template",
+      "path": "07. System/01. Templates/daily-note-template.md"
     },
     {
-      "basename": "leave-annual",
-      "path": "08. Tags/leave-annual.md"
+      "basename": "Chronicle Dashboard",
+      "path": "02. Dashboards/Chronicle Dashboard.md"
     },
     {
-      "basename": "My Tasks",
-      "path": "01. Kanban/My Tasks.md"
+      "basename": "Board - My Tasks",
+      "path": "01. Kanban/Board - My Tasks.md"
+    },
+    {
+      "basename": "checklist-template",
+      "path": "07. System/01. Templates/checklist-template.md"
+    },
+    {
+      "basename": "action-item-template",
+      "path": "07. System/01. Templates/action-item-template.md"
+    },
+    {
+      "basename": "Notes Dashboard",
+      "path": "02. Dashboards/Notes Dashboard.md"
+    },
+    {
+      "basename": "Sample task",
+      "path": "01. Kanban/Tasks/Sample task.md"
+    },
+    {
+      "basename": "Out of Office - Tailored Response",
+      "path": "04. My Notes/Out of Office - Tailored Response.md"
+    },
+    {
+      "basename": "$programming",
+      "path": "03. MoC/$programming.md"
     },
     {
       "basename": "$personal-finance",
       "path": "03. MoC/$personal-finance.md"
     },
     {
-      "basename": "Sample task",
-      "path": "01. Kanban/Tasks/Sample task.md"
+      "basename": "changelog",
+      "path": "07. System/03. Logs/changelog.md"
+    },
+    {
+      "basename": "leave-annual",
+      "path": "08. Tags/leave-annual.md"
     },
     {
       "basename": "task-template",
@@ -35,14 +63,6 @@
     {
       "basename": "temporary-note",
       "path": "07. System/01. Templates/temporary-note.md"
-    },
-    {
-      "basename": "action-item-template",
-      "path": "07. System/01. Templates/action-item-template.md"
-    },
-    {
-      "basename": "$programming",
-      "path": "03. MoC/$programming.md"
     },
     {
       "basename": "type-yearly",
@@ -129,24 +149,8 @@
       "path": "07. System/01. Templates/discussion-template.md"
     },
     {
-      "basename": "dashboard-template",
-      "path": "07. System/01. Templates/dashboard-template.md"
-    },
-    {
-      "basename": "daily-note-template",
-      "path": "07. System/01. Templates/daily-note-template.md"
-    },
-    {
-      "basename": "checklist-template",
-      "path": "07. System/01. Templates/checklist-template.md"
-    },
-    {
       "basename": "analysis-template",
       "path": "07. System/01. Templates/analysis-template.md"
-    },
-    {
-      "basename": "Out of Office - Tailored Response",
-      "path": "04. My Notes/Out of Office - Tailored Response.md"
     },
     {
       "basename": "type-action-item",

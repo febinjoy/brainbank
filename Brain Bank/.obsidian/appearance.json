@@ -1,3 +1,6 @@
 {
-  "accentColor": "#117a65"
+  "accentColor": "#117a65",
+  "enabledCssSnippets": [
+    "widenote"
+  ]
 }
