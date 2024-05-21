@@ -71,7 +71,7 @@
       }
     },
     {
-      "query": "path:\"01. Favourites\"  ",
+      "query": "path:\"01. Kanban\"  ",
       "color": {
         "a": 1,
         "rgb": 2336231
@@ -89,5 +89,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.2171315458123926,
-  "close": true
+  "close": false
 }

@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "My Dashboard",
+      "path": "11. Workbench/My Dashboard.md"
+    },
+    {
+      "basename": "My Tasks",
+      "path": "01. Kanban/My Tasks.md"
+    },
+    {
+      "basename": "changelog",
+      "path": "07. System/03. Logs/changelog.md"
+    },
+    {
       "basename": "$personal-finance",
       "path": "03. MoC/$personal-finance.md"
+    },
+    {
+      "basename": "Sample task",
+      "path": "01. Kanban/Tasks/Sample task.md"
+    },
+    {
+      "basename": "task-template",
+      "path": "07. System/01. Templates/task-template.md"
+    },
+    {
+      "basename": "kanban-template",
+      "path": "07. System/01. Templates/kanban-template.md"
+    },
+    {
+      "basename": "temporary-note",
+      "path": "07. System/01. Templates/temporary-note.md"
+    },
+    {
+      "basename": "action-item-template",
+      "path": "07. System/01. Templates/action-item-template.md"
     },
     {
       "basename": "$programming",
@@ -39,10 +71,6 @@
     {
       "basename": "todo-list-template",
       "path": "07. System/01. Templates/todo-list-template.md"
-    },
-    {
-      "basename": "temporary-note",
-      "path": "07. System/01. Templates/temporary-note.md"
     },
     {
       "basename": "tailored-response-template",
@@ -111,10 +139,6 @@
     {
       "basename": "analysis-template",
       "path": "07. System/01. Templates/analysis-template.md"
-    },
-    {
-      "basename": "action-item-template",
-      "path": "07. System/01. Templates/action-item-template.md"
     },
     {
       "basename": "Out of Office - Tailored Response",
