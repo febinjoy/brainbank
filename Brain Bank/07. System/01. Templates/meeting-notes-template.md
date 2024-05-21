@@ -1,5 +1,6 @@
 Created on: [[{{date}}]] 
 Type: [[type-meeting-note]]
+MoC: 
 Priority: [[priority-medium]]
 Date of meeting: 
 Venue: 

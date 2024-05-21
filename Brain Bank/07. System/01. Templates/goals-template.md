@@ -1,6 +1,7 @@
 Created on: [[{{date}}]] 
 Type: [[type-goals]]
 Status: [[status-committed]]
+MoC: 
 Priority: [[priority-medium]]
 Responsible: [[@myself]]
 Start Date: 

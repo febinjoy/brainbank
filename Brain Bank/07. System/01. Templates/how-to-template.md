@@ -1,5 +1,6 @@
 Created on: [[{{date}}]] 
 Type: [[type-how-to]]
+MoC: 
 State: [[state-seed]]
 Status: [[status-in-progress]]
 Priority: [[priority-medium]]

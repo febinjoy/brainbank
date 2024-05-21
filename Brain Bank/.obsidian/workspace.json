@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0cfec381149b1386",
+        "id": "45e1e82ae538828d",
         "type": "tabs",
         "children": [
           {
-            "id": "12a8f05df60187c3",
+            "id": "8754eebc50b6cd45",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "03. MoC/$personal-finance.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03. MoC/$personal-finance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03. MoC/$personal-finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03. MoC/$personal-finance.md"
+              }
             }
           }
         ],
@@ -164,43 +173,43 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "12a8f05df60187c3",
+  "active": "8754eebc50b6cd45",
   "lastOpenFiles": [
-    "02. Dashboards/My Action Items.md",
-    "01. Favourites/1. ReadMe - Favourites.md",
-    "02. Dashboards/My Articles.md",
-    "03. MoC/1. ReadMe - MoC.md",
-    "11. Workbench/2024-05-21.md",
-    "05. Chronicle/01. Periodic Notes/Monthly/2024-05.md",
+    "03. MoC/$learning.md",
+    "03. MoC/$personal-finance.md",
+    "03. MoC/$programming.md",
+    "05. Chronicle/01. Daily/2024-05-21.md",
+    "05. Chronicle/05. Yearly/2024.md",
+    "08. Tags/type-yearly.md",
+    "08. Tags/type-quarterly.md",
+    "07. System/01. Templates/quarterly-template.md",
     "05. Chronicle/01. Periodic Notes/Daily/2024-05-21.md",
-    "05. Chronicle/01. Periodic Notes/Weekly/2024-W21.md",
-    "04. My Notes/1. ReadMe - My Notes.md",
-    "01. Bookmarks/Untitled.md",
-    "05. Chronicle/01. Periodic Notes/Daily/2024-05-20.md",
-    "06. Resources/1. ReadMe - Resources.md",
-    "11. Workbench/1. ReadMe - Workbench.md",
-    "11. Workbench/testy doc.md",
-    "05. Chronicle/1. ReadMe - About-Chronicle.md",
-    "04. My Notes/Out of Office - Tailored Response.md",
-    "05. Chronicle/01. Periodic Notes/Yearly",
-    "05. Chronicle/01. Periodic Notes/Weekly/2024-W20.md",
-    "05. Chronicle/01. Periodic Notes/Daily/2024-05-13.md",
-    "11. Workbench/2024.md",
-    "05. Chronicle/01. Periodic Notes/Daily/2024-05-15.md",
-    "05. Chronicle/01. Periodic Notes/Daily/2024-05-14.md",
-    "07. System/01. Templates/monthly-template.md",
-    "07. System/01. Templates/daily-note-template.md",
+    "05. Chronicle/04. Quarterly",
     "07. System/01. Templates/weekly-template.md",
-    "08. Tags/type-action-item.md",
-    "08. Tags/type-analysis.md",
-    "05. Chronicle/01. Periodic Notes/Monthly",
-    "05. Chronicle/01. Periodic Notes/Weekly",
-    "05. Chronicle/01. Periodic Notes/Daily",
+    "07. System/01. Templates/yearly-template.md",
+    "07. System/01. Templates/tutorials-planner-template.md",
+    "07. System/01. Templates/troubleshooting-template.md",
+    "07. System/01. Templates/todo-list-template.md",
+    "07. System/01. Templates/temporary-note.md",
+    "07. System/01. Templates/tailored-response-template.md",
+    "07. System/01. Templates/sprint-template.md",
+    "07. System/01. Templates/requirement-spec-template.md",
+    "07. System/01. Templates/reference-template.md",
+    "07. System/01. Templates/quick-reference-template.md",
+    "07. System/01. Templates/process-improvement-template.md",
+    "07. System/01. Templates/note-template.md",
+    "07. System/01. Templates/monthly-template.md",
+    "07. System/01. Templates/meeting-notes-template.md",
+    "07. System/01. Templates/leave-planner-template.md",
+    "07. System/01. Templates/how-to-template.md",
+    "05. Chronicle/05. Yearly",
+    "05. Chronicle/03. Monthly",
+    "05. Chronicle/02. Weekly",
+    "05. Chronicle/01. Daily",
     "03. MoC",
     "01. Favourites",
     "05. Chronicle/01. Periodic Notes",
     "10. Canvas",
-    "06. Tags/Leave",
-    "05. System/01. Templates/Done"
+    "06. Tags/Leave"
   ]
 }

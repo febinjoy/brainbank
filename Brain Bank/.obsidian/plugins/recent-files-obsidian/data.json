@@ -1,20 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "Out of Office - Tailored Response",
-      "path": "04. My Notes/Out of Office - Tailored Response.md"
+      "basename": "$personal-finance",
+      "path": "03. MoC/$personal-finance.md"
+    },
+    {
+      "basename": "$programming",
+      "path": "03. MoC/$programming.md"
+    },
+    {
+      "basename": "type-yearly",
+      "path": "08. Tags/type-yearly.md"
+    },
+    {
+      "basename": "type-quarterly",
+      "path": "08. Tags/type-quarterly.md"
+    },
+    {
+      "basename": "quarterly-template",
+      "path": "07. System/01. Templates/quarterly-template.md"
+    },
+    {
+      "basename": "weekly-template",
+      "path": "07. System/01. Templates/weekly-template.md"
+    },
+    {
+      "basename": "yearly-template",
+      "path": "07. System/01. Templates/yearly-template.md"
+    },
+    {
+      "basename": "tutorials-planner-template",
+      "path": "07. System/01. Templates/tutorials-planner-template.md"
+    },
+    {
+      "basename": "troubleshooting-template",
+      "path": "07. System/01. Templates/troubleshooting-template.md"
+    },
+    {
+      "basename": "todo-list-template",
+      "path": "07. System/01. Templates/todo-list-template.md"
+    },
+    {
+      "basename": "temporary-note",
+      "path": "07. System/01. Templates/temporary-note.md"
+    },
+    {
+      "basename": "tailored-response-template",
+      "path": "07. System/01. Templates/tailored-response-template.md"
+    },
+    {
+      "basename": "sprint-template",
+      "path": "07. System/01. Templates/sprint-template.md"
+    },
+    {
+      "basename": "requirement-spec-template",
+      "path": "07. System/01. Templates/requirement-spec-template.md"
+    },
+    {
+      "basename": "reference-template",
+      "path": "07. System/01. Templates/reference-template.md"
+    },
+    {
+      "basename": "quick-reference-template",
+      "path": "07. System/01. Templates/quick-reference-template.md"
+    },
+    {
+      "basename": "process-improvement-template",
+      "path": "07. System/01. Templates/process-improvement-template.md"
+    },
+    {
+      "basename": "note-template",
+      "path": "07. System/01. Templates/note-template.md"
     },
     {
       "basename": "monthly-template",
       "path": "07. System/01. Templates/monthly-template.md"
     },
     {
+      "basename": "meeting-notes-template",
+      "path": "07. System/01. Templates/meeting-notes-template.md"
+    },
+    {
+      "basename": "leave-planner-template",
+      "path": "07. System/01. Templates/leave-planner-template.md"
+    },
+    {
+      "basename": "how-to-template",
+      "path": "07. System/01. Templates/how-to-template.md"
+    },
+    {
+      "basename": "goals-template",
+      "path": "07. System/01. Templates/goals-template.md"
+    },
+    {
+      "basename": "discussion-template",
+      "path": "07. System/01. Templates/discussion-template.md"
+    },
+    {
+      "basename": "dashboard-template",
+      "path": "07. System/01. Templates/dashboard-template.md"
+    },
+    {
       "basename": "daily-note-template",
       "path": "07. System/01. Templates/daily-note-template.md"
     },
     {
-      "basename": "weekly-template",
-      "path": "07. System/01. Templates/weekly-template.md"
+      "basename": "checklist-template",
+      "path": "07. System/01. Templates/checklist-template.md"
+    },
+    {
+      "basename": "analysis-template",
+      "path": "07. System/01. Templates/analysis-template.md"
+    },
+    {
+      "basename": "action-item-template",
+      "path": "07. System/01. Templates/action-item-template.md"
+    },
+    {
+      "basename": "Out of Office - Tailored Response",
+      "path": "04. My Notes/Out of Office - Tailored Response.md"
     },
     {
       "basename": "type-action-item",
@@ -33,20 +137,8 @@
       "path": "08. Tags/type-weekly.md"
     },
     {
-      "basename": "checklist-template",
-      "path": "07. System/01. Templates/checklist-template.md"
-    },
-    {
-      "basename": "analysis-template",
-      "path": "07. System/01. Templates/analysis-template.md"
-    },
-    {
       "basename": "type-requirements-spec",
       "path": "08. Tags/type-requirements-spec.md"
-    },
-    {
-      "basename": "note-template",
-      "path": "07. System/01. Templates/note-template.md"
     },
     {
       "basename": "type-daily",

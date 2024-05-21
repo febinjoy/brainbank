@@ -1,6 +1,7 @@
 Created on: [[{{date}}]]
 Type: [[type-troubleshooting]]
 Status: [[status-evaluation]]
+MoC: 
 Priority: [[priority-medium]]
 Responsible: [[@myself]]
 Reported by: 

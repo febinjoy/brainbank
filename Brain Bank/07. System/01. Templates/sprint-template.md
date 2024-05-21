@@ -1,5 +1,6 @@
 Created on: [[{{date}}]]
 Type: [[type-sprint]]
+MoC: 
 Sprint Start Date: 
 Sprint End Date: 
 Stake-Holders: 

@@ -1,5 +1,6 @@
 Created on: [[{{date}}]] 
 Type: [[type-discussion]]
+MoC: 
 Priority: [[priority-medium]]
 Date of Discussion: 
 Stake-Holders: [[@myself]]
