@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25c611addde2d5f3",
+        "id": "e7f6591b1e8bb003",
         "type": "tabs",
         "children": [
           {
-            "id": "d86b4fc296fd6b8d",
+            "id": "7845dbe023163162",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "07. System/01. Templates/book-review-template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "01. Kanban/Board - My Tasks.md"
               }
             }
           }
@@ -49,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07. System/01. Templates/book-review-template.md",
+                "file": "01. Kanban/Board - My Tasks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07. System/01. Templates/book-review-template.md",
+                "file": "01. Kanban/Board - My Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07. System/01. Templates/book-review-template.md"
+                "file": "01. Kanban/Board - My Tasks.md"
               }
             }
           }
@@ -173,34 +170,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d86b4fc296fd6b8d",
+  "active": "7845dbe023163162",
   "lastOpenFiles": [
-    "06. Resources/Out of Office - Tailored Response.md",
-    "02. Dashboards/Chronicle Dashboard.md",
+    "01. Kanban/Tasks/Read Me.md",
     "01. Kanban/Board - My Tasks.md",
     "07. System/01. Templates/yearly-template.md",
-    "07. System/01. Templates/monthly-template.md",
     "07. System/01. Templates/weekly-template.md",
-    "07. System/01. Templates/daily-note-template.md",
-    "07. System/01. Templates/checklist-template.md",
-    "07. System/01. Templates/book-review-template.md",
-    "07. System/01. Templates/analysis-template.md",
-    "07. System/01. Templates/action-item-template.md",
-    "07. System/01. Templates/task-template.md",
-    "07. System/01. Templates/podcast-review-template.md",
-    "08. Tags/$podcast-review.md",
-    "07. System/01. Templates/movie-review-template.md",
-    "08. Tags/$book-review.md",
-    "08. Tags/$movie-review.md",
-    "03. MoC/crime-thriller.md",
-    "03. MoC/novel.md",
-    "01. Kanban/Tasks/Read Me.md",
     "07. System/01. Templates/tutorials-planner-template.md",
+    "07. System/01. Templates/dashboard-template.md",
     "07. System/01. Templates/troubleshooting-template.md",
     "07. System/01. Templates/todo-list-template.md",
     "07. System/01. Templates/temporary-note-template.md",
+    "07. System/01. Templates/task-template.md",
     "07. System/01. Templates/tailored-response-template.md",
     "07. System/01. Templates/sprint-template.md",
+    "07. System/01. Templates/requirement-spec-template.md",
+    "07. System/01. Templates/reference-template.md",
+    "07. System/01. Templates/team-template.md",
+    "07. System/01. Templates/quick-reference-template.md",
+    "07. System/01. Templates/process-improvement-template.md",
+    "07. System/01. Templates/podcast-review-template.md",
+    "07. System/01. Templates/daily-note-template.md",
+    "07. System/01. Templates/monthly-template.md",
+    "07. System/01. Templates/meeting-notes-template.md",
+    "07. System/01. Templates/leave-planner-template.md",
+    "07. System/01. Templates/kanban-template.md",
+    "07. System/01. Templates/how-to-template.md",
+    "07. System/01. Templates/goals-template.md",
+    "07. System/01. Templates/discussion-template.md",
+    "07. System/01. Templates/Checked",
     "12. People",
     "07. System/03. Logs",
     "01. Kanban/Tasks",
@@ -209,7 +207,6 @@
     "05. Chronicle/03. Monthly",
     "05. Chronicle/02. Weekly",
     "05. Chronicle/01. Daily",
-    "03. MoC",
-    "01. Kanban"
+    "03. MoC"
   ]
 }
