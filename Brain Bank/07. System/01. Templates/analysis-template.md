@@ -5,7 +5,7 @@ tags:
 ###### Header
 Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
 Type: [[$analysis]]
-Status: [[status-evaluation]]
+Status: [[status-in-progress]]
 Priority: [[priority-medium]]
 Responsible: [[@myself]]
 Start Date: 

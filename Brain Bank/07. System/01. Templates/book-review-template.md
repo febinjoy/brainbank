@@ -6,6 +6,7 @@ tags:
 ###### Header
 Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
 Type: [[$book-review]], [[$review]]
+Status: [[status-in-progress]]
 Reviewer: [[@myself]]
 MoC: [[fiction]], [[book]]
 # {{Title}}
@@ -17,7 +18,7 @@ Publisher:
 Page count: 
 Genre: 
 Format: [[$book-type-printed]]
-Language: [[lang-english]]
+Language: [[lang-English]]
 Rating: [[rating-★★★★☆]]
 
 ## Table of Contents

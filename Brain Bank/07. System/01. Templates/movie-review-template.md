@@ -17,7 +17,8 @@ Cast:
 Duration: 
 Genre: 
 Wiki page: 
-Language: [[lang-english]]
+IMDB: 
+Language: [[lang-English]]
 Rating: [[rating-★★★★☆]]
 
 ### What is this movie about?

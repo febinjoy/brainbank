@@ -14,6 +14,6 @@ MoC:
 
 ## To do - items
 
-- [ ] Item
+- [ ] Items
 
 ## Remarks

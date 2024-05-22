@@ -7,7 +7,7 @@ Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:y
 Type: [[$sprint]]
 Sprint Start Date: 
 Sprint End Date: 
-Stake-Holders: 
+Stake-Holders: [[@myself]]
 MoC: 
 # {{Title}}
 
@@ -29,6 +29,7 @@ MoC:
 ## Sprint goals
 
 
+
 ## Unplanned items
 
  >[!info]
@@ -38,26 +39,34 @@ MoC:
 ## Details
 
 
+
 ### Highlights
 
 
-### Learnings
+
+### Learning
+
 
 
 ### Shout outs
+
 
 
 ## What didn't go well?
 ### Issue
 
 
+
 ### Cause
+
 
 
 ### How to avoid in future?
 
 
+
 ## Action items
+
 
 
 ## Retro pitches

@@ -25,7 +25,7 @@ MoC:
 - [ ] Decline meetings
 ## Tasks to do
 
-- [ ] Task
+- [ ] Tasks
 ## Comms
 
 Refer [[Out of Office - Tailored Response]]

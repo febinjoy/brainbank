@@ -15,16 +15,28 @@ MoC:
 
 # {{Title}}
 
+## Table of Contents
+
+- [[#Attendees|Attendees]]
+- [[#Agenda|Agenda]]
+- [[#Discussion points|Discussion points]]
+- [[#Action items|Action items]]
+- [[#Additional notes|Additional notes]]
+
 ## Attendees
 [[@myself]], 
 
+
 ## Agenda
+
 
 
 ## Discussion points
 
 
+
 ## Action items
+
 
 
 ## Additional notes

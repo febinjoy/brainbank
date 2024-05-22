@@ -17,6 +17,7 @@ MoC:
 
 - [[#Goal|Goal]]
 - [[#Measure|Measure]]
+- [[#Status|Status]]
 - [[#Comments|Comments]]
 - [[#Notes|Notes]]
 
@@ -24,6 +25,9 @@ MoC:
 
 
 ## Measure
+
+
+## Status
 
 
 ## Comments

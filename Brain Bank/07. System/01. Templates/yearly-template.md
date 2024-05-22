@@ -9,8 +9,10 @@ Type: [[chronicle-yearly]]
 MoC: 
 # {{Title}}
 
-## Plans for the year
+## Goals for the year
 
+>[!Tip] Tip
+>Add link to individual task or action item here.
 
 
 ## Review

@@ -39,49 +39,65 @@ MoC:
 ## Summary
 
 
+
 ## Motivation
+
 
 
 ### Existing process/system
 
 
+
 ### Problems of existing process/system
+
 
 
 ## Proposed process/system
 
 
+
 ### Outline design
+
 
 
 ### Pros
 
 
+
 ### Cons
+
 
 
 ## Rationale and alternatives
 
 
+
 ## Required Resources
+
 
 
 ### Time frame
 
 
+
 ### Personnel resources
+
 
 
 ### Cost
 
 
+
 ### Cost of inaction
+
 
 
 ## Final outcome
 
 
+
 ## Unresolved questions
+
 
 
 ## Remarks
