@@ -1,5 +1,8 @@
+---
+cssclasses:
+---
 Created on: 
-Type: [[type-response]], [[type-tailored-response]]
+Type: [[$response]], [[$tailored-response]]
 State: [[state-tree]]
 # Out of Office - Tailored Response 
 
