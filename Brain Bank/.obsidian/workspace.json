@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ca5ee0c8b57edefc",
+        "id": "aa363361e288c75f",
         "type": "tabs",
         "children": [
           {
-            "id": "47ed4eca56301fa6",
+            "id": "d39e64edd4199666",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Dashboards/Chronicle Dashboard.md",
-                "mode": "preview",
+                "file": "08. Tags/rating-☆☆☆☆☆.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Dashboards/Chronicle Dashboard.md",
+                "file": "08. Tags/rating-☆☆☆☆☆.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Dashboards/Chronicle Dashboard.md",
+                "file": "08. Tags/rating-☆☆☆☆☆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Dashboards/Chronicle Dashboard.md"
+                "file": "08. Tags/rating-☆☆☆☆☆.md"
               }
             }
           }
@@ -172,11 +172,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "47ed4eca56301fa6",
+  "active": "d39e64edd4199666",
   "lastOpenFiles": [
+    "08. Tags/rating-☆☆☆☆☆.md",
+    "08. Tags/rating-★☆☆☆☆.md",
+    "08. Tags/rating-★★☆☆☆.md",
+    "08. Tags/rating-★★★☆☆.md",
+    "08. Tags/rating-★★★★☆.md",
+    "08. Tags/rating-★★★★★.md",
+    "02. Dashboards/Chronicle Dashboard.md",
     "01. Kanban/Tasks/Read Me.md",
     "11. Archive/Untitled.md",
-    "02. Dashboards/Chronicle Dashboard.md",
     "07. System/03. Logs/changelog.md",
     "01. Kanban/Board - My Tasks.md",
     "03. MoC/personal-finance.md",
@@ -194,12 +200,6 @@
     "08. Tags/$reference.md",
     "08. Tags/$note.md",
     "08. Tags/$quick-reference-note.md",
-    "08. Tags/$process-improvement.md",
-    "08. Tags/$meeting-note.md",
-    "08. Tags/$leave-planner.md",
-    "08. Tags/$how-to.md",
-    "08. Tags/$goals.md",
-    "08. Tags/$discussion.md",
     "12. People",
     "07. System/03. Logs",
     "01. Kanban/Tasks",
