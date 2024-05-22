@@ -1,6 +1,8 @@
 {
-  "accentColor": "#a31746",
+  "accentColor": "#7d9b28",
   "enabledCssSnippets": [
-    "widenote"
-  ]
+    "widenote",
+    "headercolor"
+  ],
+  "cssTheme": ""
 }

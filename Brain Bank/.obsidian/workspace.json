@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c94aa6fd7a1348cc",
+        "id": "ca5ee0c8b57edefc",
         "type": "tabs",
         "children": [
           {
-            "id": "3b0feadf10ea70f3",
+            "id": "47ed4eca56301fa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Kanban/Tasks/Read Me.md",
-                "mode": "source",
+                "file": "02. Dashboards/Chronicle Dashboard.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 303.5
   },
   "right": {
     "id": "794953523c45717b",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Kanban/Tasks/Read Me.md",
+                "file": "02. Dashboards/Chronicle Dashboard.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Kanban/Tasks/Read Me.md",
+                "file": "02. Dashboards/Chronicle Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Kanban/Tasks/Read Me.md"
+                "file": "02. Dashboards/Chronicle Dashboard.md"
               }
             }
           }
@@ -154,8 +154,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,35 +172,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3b0feadf10ea70f3",
+  "active": "47ed4eca56301fa6",
   "lastOpenFiles": [
-    "07. System/01. Templates/task-template.md",
     "01. Kanban/Tasks/Read Me.md",
-    "03. MoC/personal-finance.md",
-    "12. People",
-    "03. MoC/programming.md",
-    "07. System/01. Templates/note-template.md",
-    "05. Chronicle/03. Monthly/2024-05.md",
-    "05. Chronicle/01. Daily/2024-05-22.md",
-    "05. Chronicle/02. Weekly/2024-W21.md",
-    "07. System/01. Templates/weekly-template.md",
-    "07. System/01. Templates/leave-planner-template.md",
-    "07. System/01. Templates/meeting-notes-template.md",
-    "07. System/01. Templates/monthly-template.md",
-    "07. System/01. Templates/process-improvement-template.md",
-    "07. System/01. Templates/quarterly-template.md",
-    "07. System/01. Templates/temporary-note.md",
-    "07. System/01. Templates/todo-list-template.md",
-    "07. System/01. Templates/troubleshooting-template.md",
-    "07. System/01. Templates/tutorials-planner-template.md",
-    "07. System/01. Templates/yearly-template.md",
-    "07. System/01. Templates/daily-note-template.md",
-    "10. Workbench/Untitled.md",
-    "05. Chronicle/03. Monthly/2024-May.md",
-    "01. Kanban/Board - My Tasks.md",
     "11. Archive/Untitled.md",
-    "09. Canvas/Untitled.md",
-    "06. Resources/Untitled.md",
+    "02. Dashboards/Chronicle Dashboard.md",
+    "07. System/03. Logs/changelog.md",
+    "01. Kanban/Board - My Tasks.md",
+    "03. MoC/personal-finance.md",
+    "02. Dashboards/Notes Dashboard.md",
+    "04. My Notes/Out of Office - Tailored Response.md",
+    "08. Tags/$analysis.md",
+    "07. System/01. Templates/action-item-template.md",
+    "08. Tags/$troubleshooting.md",
+    "08. Tags/$todo-list.md",
+    "08. Tags/$temporary.md",
+    "08. Tags/$tailored-response.md",
+    "08. Tags/$sprint.md",
+    "08. Tags/$response.md",
+    "08. Tags/$requirements-spec.md",
+    "08. Tags/$reference.md",
+    "08. Tags/$note.md",
+    "08. Tags/$quick-reference-note.md",
+    "08. Tags/$process-improvement.md",
+    "08. Tags/$meeting-note.md",
+    "08. Tags/$leave-planner.md",
+    "08. Tags/$how-to.md",
+    "08. Tags/$goals.md",
+    "08. Tags/$discussion.md",
+    "12. People",
     "07. System/03. Logs",
     "01. Kanban/Tasks",
     "05. Chronicle/04. Quarterly",
