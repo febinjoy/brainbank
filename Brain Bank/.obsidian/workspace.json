@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "52c90820c3376b51",
+        "id": "c2102be6285ee6ab",
         "type": "tabs",
         "children": [
           {
-            "id": "dfe037f4c60d68e2",
+            "id": "62e66aacffaebb69",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07. System/01. Templates/dashboard-template.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 253.5
   },
   "right": {
     "id": "794953523c45717b",
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07. System/01. Templates/dashboard-template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07. System/01. Templates/dashboard-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "07. System/01. Templates/dashboard-template.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,36 +163,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dfe037f4c60d68e2",
+  "active": "62e66aacffaebb69",
   "lastOpenFiles": [
-    "07. System/01. Templates/daily-note-template.md",
+    "07. System/01. Templates/meeting-notes-template.md",
+    "11. Archive/Untitled.md",
+    "10. Workbench/Untitled.md",
+    "09. Canvas/Untitled.md",
+    "06. Resources/Untitled.md",
     "02. Dashboards/Chronicle Dashboard.md",
-    "01. Kanban/Board - My Tasks.md",
-    "07. System/01. Templates/checklist-template.md",
-    "07. System/01. Templates/action-item-template.md",
     "02. Dashboards/Notes Dashboard.md",
-    "01. Kanban/Tasks/Sample task.md",
-    "07. System/01. Templates/dashboard-template.md",
+    "03. MoC/$personal-finance.md",
+    "05. Chronicle/Untitled.md",
+    "08. Tags/Untitled.md",
+    "01. Kanban/Board - My Tasks.md",
     "04. My Notes/Out of Office - Tailored Response.md",
+    "01. Kanban/Tasks/Read Me.md",
+    "07. System/01. Templates/dashboard-template.md",
+    "11. Workbench/Untitled.md",
+    "07. System/01. Templates/action-item-template.md",
+    "07. System/01. Templates/daily-note-template.md",
+    "07. System/01. Templates/checklist-template.md",
     "11. Workbench/My Dashboard.md",
     "03. MoC/$programming.md",
-    "03. MoC/$personal-finance.md",
     "07. System/03. Logs/changelog.md",
     "08. Tags/leave-annual.md",
-    "11. Workbench/Untitled.md",
     "07. System/03. Logs",
     "11. Workbench/Sample task.md",
     "07. System/01. Templates/task-template.md",
     "01. Kanban/Tasks/Test.md",
     "07. System/01. Templates/kanban-template.md",
-    "07. System/01. Templates/temporary-note.md",
     "01. Kanban/Tasks",
-    "11. Workbench/2024-05-21.md",
-    "03. MoC/$learning.md",
-    "05. Chronicle/01. Daily/2024-05-21.md",
-    "05. Chronicle/05. Yearly/2024.md",
-    "08. Tags/type-yearly.md",
-    "08. Tags/type-quarterly.md",
     "05. Chronicle/04. Quarterly",
     "05. Chronicle/05. Yearly",
     "05. Chronicle/03. Monthly",

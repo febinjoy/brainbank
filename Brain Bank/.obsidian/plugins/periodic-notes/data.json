@@ -22,13 +22,13 @@
   },
   "quarterly": {
     "format": "",
-    "template": "08. Tags/type-quarterly.md",
+    "template": "07. System/01. Templates/quarterly-template.md",
     "folder": "05. Chronicle/04. Quarterly",
     "enabled": true
   },
   "yearly": {
     "format": "",
-    "template": "08. Tags/type-yearly.md",
+    "template": "07. System/01. Templates/yearly-template.md",
     "folder": "05. Chronicle/05. Yearly",
     "enabled": true
   }

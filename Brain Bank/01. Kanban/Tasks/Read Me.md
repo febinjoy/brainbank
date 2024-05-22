@@ -8,7 +8,7 @@ Planned Start Date:
 Planned End Date: 
 Due Date: 
 Stake-Holders: 
-# Sample task
+# Read Me
 
 
 ## Description

@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## To do
 
-- [ ] [[Sample task]]
+- [ ] [[Read Me]]
 
 
 ## In Progress
