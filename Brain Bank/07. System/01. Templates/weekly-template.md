@@ -1,7 +1,7 @@
 Created by: [[@myself]]
 Type: [[type-weekly]]
 MoC: 
-Month: [[{{date:yyyy-MMM}}]]
+Month: [[{{date:yyyy-MM}}]]
 Year: [[{{date:yyyy}}]]
 # {{Title}}
 
