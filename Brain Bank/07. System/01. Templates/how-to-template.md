@@ -1,9 +1,15 @@
-Created on: [[{{date}}]] 
-Type: [[type-how-to]]
-MoC: 
+---
+tags:
+  - how-to
+---
+###### Header
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
+Type: [[$how-to]]
 State: [[state-seed]]
 Status: [[status-in-progress]]
 Priority: [[priority-medium]]
+Rating: [[rating-★★★★☆]]
+MoC: 
 # {{Title}}
 
 ## Table of Contents

@@ -1,13 +1,19 @@
-Created on: [[{{date}}]] 
-Type: [[type-process-improvement]]
+---
+tags:
+  - process-improvement
+---
+###### Header
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
+Type: [[$process-improvement]]
 Status: [[status-evaluation]]
-MoC: 
 State: [[state-seed]]
 Priority: [[priority-high]]
 Responsible: [[@myself]]
 Start Date: 
 Due Date: 
 Stake-Holders: 
+Rating: [[rating-★★★★☆]]
+MoC: 
 # {{Title}}
 
 ## Table of Contents

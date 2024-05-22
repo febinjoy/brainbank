@@ -1,8 +1,14 @@
-Created on: [[{{date}}]] 
+---
+tags:
+  - reference
+---
+###### Header
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
 Created by: [[@myself]]
-Type: [[type-reference]]
-MoC: 
+Type: [[$reference]]
 State: [[state-seed]]
+Rating: [[rating-★★★★☆]]
+MoC: 
 # {{Title}}
 
 ## Table of Contents
@@ -13,7 +19,7 @@ State: [[state-seed]]
 - [[#Other|Other]]
 
 ## Articles
-- 
+
 
 ## Videos
 

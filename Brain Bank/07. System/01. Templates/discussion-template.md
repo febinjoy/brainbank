@@ -1,9 +1,14 @@
-Created on: [[{{date}}]] 
-Type: [[type-discussion]]
-MoC: 
+---
+tags:
+  - discussion
+---
+###### Header
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
+Type: [[$discussion]]
 Priority: [[priority-medium]]
 Date of Discussion: 
 Stake-Holders: [[@myself]]
+MoC: 
 # {{Title}}
 
 ## Table of Contents
@@ -19,19 +24,25 @@ Stake-Holders: [[@myself]]
 ## Introduction
 
 
+
 ## Background and problem statement
+
 
 
 ## Key points
 
 
+
 ## Counterarguments
+
 
 
 ## Implications and conclusions
 
 
+
 ## Recommendations
+
 
 
 ## Remarks

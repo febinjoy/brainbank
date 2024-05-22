@@ -1,12 +1,17 @@
-Created on: [[{{date}}]] 
-Type: [[type-action-item]]
+---
+tags:
+  - tutorials-planner
+---
+###### Header
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
+Type: [[$action-item]]
 Status: [[status-evaluation]]
-MoC: 
 Priority: [[priority-medium]]
 Responsible: [[@myself]]
 Planned Start Date: 
 Planned End Date: 
 Stake-Holders: 
+MoC: 
 # {{Title}}
 
 ## Table of Contents

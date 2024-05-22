@@ -1,12 +1,17 @@
-Created on: [[{{date}}]]
-Type: [[type-action-item]]
+---
+tags:
+  - action-item
+---
+###### Header
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
+Type: [[$action-item]]
 Status: [[status-todo]]
-MoC: 
 Priority: [[priority-medium]]
 Responsible: [[@myself]]
 Planned Start Date: 
 Planned End Date: 
 Stake-Holders: 
+MoC: 
 # {{Title}}
 
 ## Table of Contents
@@ -20,13 +25,17 @@ Stake-Holders:
 ## What is to be done?
 
 
+
 ## Steps to do it
+
 
 
 ## Risks
 
 
+
 ## Notes
+
 
 
 ## Resources & references

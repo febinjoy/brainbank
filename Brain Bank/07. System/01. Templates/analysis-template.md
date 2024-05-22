@@ -1,12 +1,17 @@
-Created on: [[{{date}}]]
-Type: [[type-analysis]]
+---
+tags:
+  - analysis
+---
+###### Header
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
+Type: [[$analysis]]
 Status: [[status-evaluation]]
-MoC: 
 Priority: [[priority-medium]]
 Responsible: [[@myself]]
 Start Date: 
 End Date: 
 Stake-Holders: 
+MoC: 
 # {{Title}}
 
 ## Table of Contents
@@ -22,19 +27,25 @@ Stake-Holders:
 ## Overview
 
 
+
 ## Background and context
+
 
 
 ## Approach
 
 
+
 ## Findings and insights
+
 
 
 ## Recommendations
 
 
+
 ## Conclusion
+
 
 
 ## Remarks

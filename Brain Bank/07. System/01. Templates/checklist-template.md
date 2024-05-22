@@ -1,13 +1,18 @@
-Created on: [[{{date}}]]
-Type: [[type-checklist]]
+---
+tags:
+  - checklist
+---
+###### Header
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
+Type: [[$checklist]]
 Status: [[status-todo]]
-MoC: 
 Priority: [[priority-medium]]
 Responsible: [[@myself]]
+MoC: 
 # {{Title}}
 
 ## Checklist items
 
-- [ ] Item
+- [ ] Items
 
 ## Remarks

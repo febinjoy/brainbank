@@ -1,9 +1,14 @@
-Created on: [[{{date}}]]
-Type: [[type-sprint]]
-MoC: 
+---
+tags:
+  - sprint
+---
+###### Header
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
+Type: [[$sprint]]
 Sprint Start Date: 
 Sprint End Date: 
 Stake-Holders: 
+MoC: 
 # {{Title}}
 
 ## Table of Contents

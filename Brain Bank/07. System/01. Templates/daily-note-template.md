@@ -1,21 +1,23 @@
 ---
 tags:
   - daily
-  - "#chronicle"
+  - chronicle
 ---
+###### Header
 Created by: [[@myself]]
-Type: [[type-daily]]
-MoC: 
+Type: [[chronicle-daily]]
 Week: [[{{date:yyyy-[W]ww}}]]
 Month: [[{{date:yyyy-MM}}]]
 Year: [[{{date:yyyy}}]]
+Rating: [[rating-★★★★☆]]
+MoC: 
 # {{Title}}
 
 ## Highlights of the day
 
 
 
-## Plans for next day
+## Plans for the next day
 
 
 

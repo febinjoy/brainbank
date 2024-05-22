@@ -1,13 +1,21 @@
-Created on: [[{{date}}]]
-Type: [[type-requirements-spec]]
+---
+tags:
+  - specification
+  - requirement
+  - requirement-specification
+---
+###### Header
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
+Type: [[$requirements-spec]]
 Status: [[status-pending-approval]]
-MoC: 
 Priority: [[priority-high]]
 Responsible: [[@myself]]
 Planned Start Date: 
 Planned End Date: 
 Deadline: 
 Stake-Holders: 
+Rating: [[rating-★★★★☆]]
+MoC: 
 # {{Title}}
 
 ## Table of Contents

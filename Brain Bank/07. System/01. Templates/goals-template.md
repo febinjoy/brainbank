@@ -1,11 +1,16 @@
-Created on: [[{{date}}]] 
-Type: [[type-goals]]
+---
+tags:
+  - goals
+---
+###### Header
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
+Type: [[$goals]]
 Status: [[status-committed]]
-MoC: 
 Priority: [[priority-medium]]
 Responsible: [[@myself]]
 Start Date: 
 Due Date: 
+MoC: 
 # {{Title}}
 
 ## Table of Contents

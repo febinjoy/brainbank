@@ -1,11 +1,17 @@
-Created on: [[{{date}}]] 
-Type: [[type-leave-planner]]
+---
+tags:
+  - leave
+---
+###### Header
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
+Type: [[$leave-planner]]
 Status: [[status-in-progress]]
 Leave Type: [[leave-annual]]
 Responsible: [[@myself]]
 Leave Start Date: 
 Leave End Date: 
 Approval required from: 
+MoC: 
 # {{Title}}
 
 ## Process

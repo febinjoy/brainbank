@@ -1,7 +1,7 @@
 ---
-
 kanban-plugin: basic
-
+tags:
+  - kanban
 ---
 
 ## To do

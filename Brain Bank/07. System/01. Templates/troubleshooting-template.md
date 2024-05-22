@@ -1,12 +1,18 @@
-Created on: [[{{date}}]]
-Type: [[type-troubleshooting]]
+---
+tags:
+  - troubleshooting
+---
+###### Header
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
+Type: [[$troubleshooting]]
 Status: [[status-evaluation]]
-MoC: 
 Priority: [[priority-medium]]
 Responsible: [[@myself]]
 Reported by: 
 Due Date: 
 Stake-Holders: 
+Rating: [[rating-★★★★☆]]
+MoC: 
 # {{Title}}
 
 ## Table of Contents

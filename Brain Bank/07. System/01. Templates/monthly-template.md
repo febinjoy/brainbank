@@ -1,13 +1,20 @@
+---
+tags:
+  - monthly
+  - chronicle
+---
+###### Header
 Created by: [[@myself]]
-Type: [[type-daily]]
+Type: [[chronicle-monthly]]
 Year: [[{{date:yyyy}}]]
+MoC: 
 # {{Title}}
 
-## Highlights of the day
+## Highlights of the month
 
 
 
-## Plans for next day
+## Plans for the next month
 
 
 
