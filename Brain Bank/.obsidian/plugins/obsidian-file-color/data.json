@@ -56,6 +56,11 @@
       "id": "10dxQMk88XICGyCyCh0e2",
       "name": "Archive",
       "value": "#a31746"
+    },
+    {
+      "id": "ALqwID_94oYkG6O_b_apv",
+      "name": "People",
+      "value": "#810909"
     }
   ],
   "fileColors": [
@@ -102,6 +107,10 @@
     {
       "path": "10. Workbench",
       "color": "U05_g8EvLW3wcPnBpCdj4"
+    },
+    {
+      "path": "12. People",
+      "color": "ALqwID_94oYkG6O_b_apv"
     }
   ]
 }

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c2102be6285ee6ab",
+        "id": "c94aa6fd7a1348cc",
         "type": "tabs",
         "children": [
           {
-            "id": "62e66aacffaebb69",
+            "id": "3b0feadf10ea70f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01. Kanban/Tasks/Read Me.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01. Kanban/Tasks/Read Me.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01. Kanban/Tasks/Read Me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01. Kanban/Tasks/Read Me.md"
+              }
             }
           }
         ]
@@ -145,7 +154,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,35 +173,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "62e66aacffaebb69",
+  "active": "3b0feadf10ea70f3",
   "lastOpenFiles": [
+    "07. System/01. Templates/task-template.md",
+    "01. Kanban/Tasks/Read Me.md",
+    "03. MoC/personal-finance.md",
+    "12. People",
+    "03. MoC/programming.md",
+    "07. System/01. Templates/note-template.md",
+    "05. Chronicle/03. Monthly/2024-05.md",
+    "05. Chronicle/01. Daily/2024-05-22.md",
+    "05. Chronicle/02. Weekly/2024-W21.md",
+    "07. System/01. Templates/weekly-template.md",
+    "07. System/01. Templates/leave-planner-template.md",
     "07. System/01. Templates/meeting-notes-template.md",
-    "11. Archive/Untitled.md",
+    "07. System/01. Templates/monthly-template.md",
+    "07. System/01. Templates/process-improvement-template.md",
+    "07. System/01. Templates/quarterly-template.md",
+    "07. System/01. Templates/temporary-note.md",
+    "07. System/01. Templates/todo-list-template.md",
+    "07. System/01. Templates/troubleshooting-template.md",
+    "07. System/01. Templates/tutorials-planner-template.md",
+    "07. System/01. Templates/yearly-template.md",
+    "07. System/01. Templates/daily-note-template.md",
     "10. Workbench/Untitled.md",
+    "05. Chronicle/03. Monthly/2024-May.md",
+    "01. Kanban/Board - My Tasks.md",
+    "11. Archive/Untitled.md",
     "09. Canvas/Untitled.md",
     "06. Resources/Untitled.md",
-    "02. Dashboards/Chronicle Dashboard.md",
-    "02. Dashboards/Notes Dashboard.md",
-    "03. MoC/$personal-finance.md",
-    "05. Chronicle/Untitled.md",
-    "08. Tags/Untitled.md",
-    "01. Kanban/Board - My Tasks.md",
-    "04. My Notes/Out of Office - Tailored Response.md",
-    "01. Kanban/Tasks/Read Me.md",
-    "07. System/01. Templates/dashboard-template.md",
-    "11. Workbench/Untitled.md",
-    "07. System/01. Templates/action-item-template.md",
-    "07. System/01. Templates/daily-note-template.md",
-    "07. System/01. Templates/checklist-template.md",
-    "11. Workbench/My Dashboard.md",
-    "03. MoC/$programming.md",
-    "07. System/03. Logs/changelog.md",
-    "08. Tags/leave-annual.md",
     "07. System/03. Logs",
-    "11. Workbench/Sample task.md",
-    "07. System/01. Templates/task-template.md",
-    "01. Kanban/Tasks/Test.md",
-    "07. System/01. Templates/kanban-template.md",
     "01. Kanban/Tasks",
     "05. Chronicle/04. Quarterly",
     "05. Chronicle/05. Yearly",
@@ -199,7 +210,6 @@
     "05. Chronicle/02. Weekly",
     "05. Chronicle/01. Daily",
     "03. MoC",
-    "01. Kanban",
-    "05. Chronicle/01. Periodic Notes"
+    "01. Kanban"
   ]
 }

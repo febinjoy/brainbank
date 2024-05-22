@@ -83,6 +83,13 @@
         "a": 1,
         "rgb": 8650923
       }
+    },
+    {
+      "query": "path:\"12. People\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8456457
+      }
     }
   ],
   "collapse-display": true,
