@@ -11,8 +11,10 @@
             "id": "1f01ee3eba27f109",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "01. Kanban/Board - My Tasks.md"
+              }
             }
           }
         ]
@@ -82,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07. System/01. Templates/daily-note-template.md",
+                "file": "01. Kanban/Board - My Tasks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07. System/01. Templates/daily-note-template.md",
+                "file": "01. Kanban/Board - My Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07. System/01. Templates/daily-note-template.md"
+                "file": "01. Kanban/Board - My Tasks.md"
               }
             }
           }
@@ -168,7 +170,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a3e63fa0d38278a6",
+  "active": "1f01ee3eba27f109",
   "lastOpenFiles": [
     "Untitled.md",
     "07. System/01. Templates/daily-note-template.md",
