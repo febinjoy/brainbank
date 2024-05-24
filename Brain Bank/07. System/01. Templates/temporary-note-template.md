@@ -7,7 +7,6 @@ Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:y
 Created by: [[@myself]]
 Type: [[$note]], [[$temporary-note]]
 State: [[state-seed]]
-Tag: #temporary
 Rating: [[rating-★☆☆☆☆]]
 MoC: 
 # {{Title}}

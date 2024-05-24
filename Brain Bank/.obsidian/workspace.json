@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "24daab3f3f235620",
+        "id": "8fdd5096b1cb5947",
         "type": "tabs",
         "children": [
           {
-            "id": "d78db891d8d10405",
+            "id": "1f01ee3eba27f109",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "01. Kanban/Board - My Tasks.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -46,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#requirement",
+                "query": "tag:#yearly",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Kanban/Board - My Tasks.md",
+                "file": "07. System/01. Templates/daily-note-template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Kanban/Board - My Tasks.md",
+                "file": "07. System/01. Templates/daily-note-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +111,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -124,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Kanban/Board - My Tasks.md"
+                "file": "07. System/01. Templates/daily-note-template.md"
               }
             }
           }
@@ -152,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,37 +168,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d78db891d8d10405",
+  "active": "a3e63fa0d38278a6",
   "lastOpenFiles": [
-    "04. My Notes/My Note.md",
-    "11. Archive/Archived Note.md",
-    "10. Workbench/Workbench Note.md",
-    "05. Chronicle/04. Yearly/2024.md",
-    "05. Chronicle/03. Monthly/2024-05.md",
-    "05. Chronicle/02. Weekly/2024-W21.md",
-    "05. Chronicle/01. Daily/2024-05-24.md",
-    "09. Canvas/My Canvas.canvas",
-    "07. System/02. Artefacts/Artefacts.md",
+    "Untitled.md",
+    "07. System/01. Templates/daily-note-template.md",
+    "07. System/01. Templates/checklist-template.md",
+    "07. System/01. Templates/dashboard-template.md",
+    "07. System/01. Templates/discussion-template.md",
+    "07. System/01. Templates/analysis-template.md",
     "02. Dashboards/Dashboard.canvas",
+    "09. Canvas/My Canvas.canvas",
+    "08. Tags/$idea.md",
     "01. Kanban/Board - My Tasks.md",
     "01. Kanban/Tasks/Read Me.md",
-    "06. Resources/Out of Office - Tailored Response.md",
-    "05. Chronicle/05. Sprint/Current Sprint.md",
-    "05. Chronicle/05. Sprint",
-    "05. Chronicle/01. Daily/2024-05-06.md",
-    "05. Chronicle/01. Daily/2024-05-07.md",
-    "07. System/01. Templates/yearly-note-template.md",
-    "02. Dashboards/Dashboard.md",
-    "07. System/01. Templates/weekly-note-template.md",
-    "07. System/01. Templates/monthly-note-template.md",
-    "07. System/01. Templates/daily-note-template.md",
-    "07. System/01. Templates/action-item-template.md",
+    "07. System/01. Templates/process-improvement-template.md",
+    "07. System/01. Templates/temporary-note-template.md",
+    "10. Workbench/Workbench Note.md",
+    "11. Archive/Archived Note.md",
+    "07. System/01. Templates/meeting-notes-template.md",
+    "07. System/01. Templates/team-template.md",
+    "07. System/01. Templates/tailored-response-template.md",
+    "07. System/01. Templates/sprint-template.md",
+    "07. System/01. Templates/requirement-spec-template.md",
+    "07. System/01. Templates/reference-template.md",
+    "07. System/01. Templates/quick-reference-template.md",
+    "07. System/01. Templates/podcast-review-template.md",
+    "07. System/01. Templates/person-template.md",
+    "07. System/01. Templates/organisation-template.md",
     "07. System/01. Templates/note-template.md",
-    "05. Chronicle/02. Weekly/2024-W20.md",
-    "05. Chronicle/01. Daily/2024-05-11.md",
-    "05. Chronicle/01. Daily/2024-05-10.md",
-    "05. Chronicle/01. Daily/2024-05-09.md",
-    "05. Chronicle/01. Daily/2024-05-08.md",
+    "07. System/01. Templates/movie-review-template.md",
+    "07. System/01. Templates/monthly-note-template.md",
+    "05. Chronicle/05. Sprint",
     "09. Canvas/Untitled 1.canvas",
     "02. Dashboards/Dashboard Files",
     "07. System/02. Artifacts/dashboard.jpg",
