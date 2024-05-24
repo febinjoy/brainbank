@@ -1,7 +1,8 @@
 {
   "trashOption": "local",
   "newFileLocation": "folder",
-  "attachmentFolderPath": "07. System/02. Artifacts",
+  "attachmentFolderPath": "07. System/02. Artefacts",
   "newFileFolderPath": "10. Workbench",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

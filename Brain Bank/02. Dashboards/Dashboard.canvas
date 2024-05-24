@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"044870e8c830cffb","type":"text","text":"## Chronicle\n~~~tabs\n---tab Daily\n```dataview\nLIST\nFROM #daily\nWHERE file.name!= \"daily-note-template\"\nSORT file.name desc\nLIMIT 5\n```\n---tab Weekly\n```dataview\nLIST\nFROM #weekly\nWHERE file.name!= \"weekly-note-template\"\nSORT file.name desc\nLIMIT 5\n```\n---tab Monthly\n```dataview\nLIST\nFROM #monthly \nWHERE file.name!= \"monthly-note-template\"\nSORT file.name desc\nLIMIT 5\n```\n---tab Yearly\n```dataview\nLIST\nFROM #yearly  \nWHERE file.name!= \"yearly-note-template\"\nSORT file.name desc\nLIMIT 5\n```\n---tab Sprints\n```dataview\nLIST\nFROM #sprint \nWHERE file.name!= \"sprint-template\"\nSORT file.name desc\nLIMIT 5\n```\n~~~ ","x":-2840,"y":-2260,"width":480,"height":384,"color":"4"},
+		{"id":"9b844a993702ba3c","type":"text","text":"## Notes\n~~~tabs\n---tab Notes\n```dataview\nLIST\nFROM #note \nWHERE file.name!= \"note-template\"\nSORT file.name desc\nLIMIT 5\n```\n---tab Weekly\n```dataview\nLIST\nFROM #weekly\nWHERE file.name!= \"weekly-note-template\"\nSORT file.name desc\nLIMIT 5\n```\n---tab Monthly\n```dataview\nLIST\nFROM #monthly \nWHERE file.name!= \"monthly-note-template\"\nSORT file.name desc\nLIMIT 5\n```\n---tab Yearly\n```dataview\nLIST\nFROM #yearly  \nWHERE file.name!= \"yearly-note-template\"\nSORT file.name desc\nLIMIT 5\n```\n---tab Sprints\n```dataview\nLIST\nFROM #sprint \nWHERE file.name!= \"sprint-template\"\nSORT file.name desc\nLIMIT 5\n```\n~~~ ","x":-2840,"y":-1860,"width":600,"height":380}
+	],
+	"edges":[]
+}

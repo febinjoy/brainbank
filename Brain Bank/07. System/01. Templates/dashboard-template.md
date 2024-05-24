@@ -8,8 +8,9 @@ cssclasses:
 Type: [[$dashboard]]
 # {{Title}}
 
-## Objective
+~~~tabs
+---tab #### First Tab
 
-
-
-## Details
+---
+---tab #### Second Tab
+~~~

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e7f6591b1e8bb003",
+        "id": "24daab3f3f235620",
         "type": "tabs",
         "children": [
           {
-            "id": "7845dbe023163162",
+            "id": "d78db891d8d10405",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#requirement",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,11 +152,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 425.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,34 +171,40 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7845dbe023163162",
+  "active": "d78db891d8d10405",
   "lastOpenFiles": [
-    "01. Kanban/Tasks/Read Me.md",
+    "04. My Notes/My Note.md",
+    "11. Archive/Archived Note.md",
+    "10. Workbench/Workbench Note.md",
+    "05. Chronicle/04. Yearly/2024.md",
+    "05. Chronicle/03. Monthly/2024-05.md",
+    "05. Chronicle/02. Weekly/2024-W21.md",
+    "05. Chronicle/01. Daily/2024-05-24.md",
+    "09. Canvas/My Canvas.canvas",
+    "07. System/02. Artefacts/Artefacts.md",
+    "02. Dashboards/Dashboard.canvas",
     "01. Kanban/Board - My Tasks.md",
-    "07. System/01. Templates/yearly-template.md",
-    "07. System/01. Templates/weekly-template.md",
-    "07. System/01. Templates/tutorials-planner-template.md",
-    "07. System/01. Templates/dashboard-template.md",
-    "07. System/01. Templates/troubleshooting-template.md",
-    "07. System/01. Templates/todo-list-template.md",
-    "07. System/01. Templates/temporary-note-template.md",
-    "07. System/01. Templates/task-template.md",
-    "07. System/01. Templates/tailored-response-template.md",
-    "07. System/01. Templates/sprint-template.md",
-    "07. System/01. Templates/requirement-spec-template.md",
-    "07. System/01. Templates/reference-template.md",
-    "07. System/01. Templates/team-template.md",
-    "07. System/01. Templates/quick-reference-template.md",
-    "07. System/01. Templates/process-improvement-template.md",
-    "07. System/01. Templates/podcast-review-template.md",
+    "01. Kanban/Tasks/Read Me.md",
+    "06. Resources/Out of Office - Tailored Response.md",
+    "05. Chronicle/05. Sprint/Current Sprint.md",
+    "05. Chronicle/05. Sprint",
+    "05. Chronicle/01. Daily/2024-05-06.md",
+    "05. Chronicle/01. Daily/2024-05-07.md",
+    "07. System/01. Templates/yearly-note-template.md",
+    "02. Dashboards/Dashboard.md",
+    "07. System/01. Templates/weekly-note-template.md",
+    "07. System/01. Templates/monthly-note-template.md",
     "07. System/01. Templates/daily-note-template.md",
-    "07. System/01. Templates/monthly-template.md",
-    "07. System/01. Templates/meeting-notes-template.md",
-    "07. System/01. Templates/leave-planner-template.md",
-    "07. System/01. Templates/kanban-template.md",
-    "07. System/01. Templates/how-to-template.md",
-    "07. System/01. Templates/goals-template.md",
-    "07. System/01. Templates/discussion-template.md",
+    "07. System/01. Templates/action-item-template.md",
+    "07. System/01. Templates/note-template.md",
+    "05. Chronicle/02. Weekly/2024-W20.md",
+    "05. Chronicle/01. Daily/2024-05-11.md",
+    "05. Chronicle/01. Daily/2024-05-10.md",
+    "05. Chronicle/01. Daily/2024-05-09.md",
+    "05. Chronicle/01. Daily/2024-05-08.md",
+    "09. Canvas/Untitled 1.canvas",
+    "02. Dashboards/Dashboard Files",
+    "07. System/02. Artifacts/dashboard.jpg",
     "07. System/01. Templates/Checked",
     "12. People",
     "07. System/03. Logs",
@@ -205,8 +212,6 @@
     "05. Chronicle/04. Quarterly",
     "05. Chronicle/04. Yearly",
     "05. Chronicle/03. Monthly",
-    "05. Chronicle/02. Weekly",
-    "05. Chronicle/01. Daily",
-    "03. MoC"
+    "05. Chronicle/02. Weekly"
   ]
 }

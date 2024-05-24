@@ -4,7 +4,6 @@ tags:
   - chronicle
 ---
 ###### Header
-Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
 Type: [[chronicle-weekly]]
 Month: [[{{date:yyyy-MM}}]]
 Year: [[{{date:yyyy}}]]
