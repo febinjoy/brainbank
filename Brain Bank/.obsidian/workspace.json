@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "84c2c20f53ffbc6a",
+        "id": "07591345696e5c9c",
         "type": "tabs",
         "children": [
           {
-            "id": "0fa793f26af72e03",
+            "id": "a817c6b45c37bda6",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "01. Kanban/Board - My Tasks.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Kanban/Board - My Tasks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Kanban/Board - My Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,13 +119,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01. Kanban/Board - My Tasks.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "872676e38c0157e6",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "f4cfec6a3de7ee15",
@@ -167,11 +169,13 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0fa793f26af72e03",
+  "active": "a817c6b45c37bda6",
   "lastOpenFiles": [
+    "01. Kanban/Board - My Tasks.md",
     "Untitled.md",
     "07. System/01. Templates/daily-note-template.md",
     "07. System/01. Templates/checklist-template.md",
@@ -181,7 +185,6 @@
     "02. Dashboards/Dashboard.canvas",
     "09. Canvas/My Canvas.canvas",
     "08. Tags/$idea.md",
-    "01. Kanban/Board - My Tasks.md",
     "01. Kanban/Tasks/Read Me.md",
     "07. System/01. Templates/process-improvement-template.md",
     "07. System/01. Templates/temporary-note-template.md",
@@ -199,7 +202,6 @@
     "07. System/01. Templates/organisation-template.md",
     "07. System/01. Templates/note-template.md",
     "07. System/01. Templates/movie-review-template.md",
-    "07. System/01. Templates/monthly-note-template.md",
     "05. Chronicle/05. Sprint",
     "09. Canvas/Untitled 1.canvas",
     "02. Dashboards/Dashboard Files",
