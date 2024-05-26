@@ -12,7 +12,7 @@ BrainBank is more than just a collection of notes—it’s a dynamic ecosystem t
 5. Community-Driven Plugins: BrainBank thrives on collaboration; and have integrated several community plugins that enhance your experience. From productivity boosters to visualisation tools, these plugins elevate your workflow. Feel free to customise and tailor BrainBank to your liking.
 6. Folders and notes are colour coded for easy identification in the Explorer view and Graph view
 
-![image](https://github.com/febinjoy/brainbank/assets/5850455/ddca483d-853a-46a5-b4bc-0133e4ac4f57)
+![image](https://github.com/febinjoy/brainbank/assets/5850455/c8054411-3247-4e48-9a02-d01d5a23e16d)
 
 ![image](https://github.com/febinjoy/brainbank/assets/5850455/81ef7eb9-fcdd-4aa3-97c9-8c8ba1461b50)
 
