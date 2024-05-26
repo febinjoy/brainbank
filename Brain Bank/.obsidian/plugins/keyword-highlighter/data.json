@@ -1,0 +1,28 @@
+{
+  "keywords": [
+    {
+      "keyword": "TODO",
+      "color": "#000",
+      "backgroundColor": "#1991e1",
+      "fontModifiers": [],
+      "showColor": true,
+      "showBackgroundColor": true
+    },
+    {
+      "keyword": "ADD",
+      "color": "#000",
+      "backgroundColor": "#1cba7e",
+      "fontModifiers": [],
+      "showColor": true,
+      "showBackgroundColor": true
+    },
+    {
+      "keyword": "FIXME",
+      "color": "#000",
+      "backgroundColor": "#da3e56",
+      "fontModifiers": [],
+      "showColor": true,
+      "showBackgroundColor": true
+    }
+  ]
+}
