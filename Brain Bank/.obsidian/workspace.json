@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8fdd5096b1cb5947",
+        "id": "84c2c20f53ffbc6a",
         "type": "tabs",
         "children": [
           {
-            "id": "1f01ee3eba27f109",
+            "id": "0fa793f26af72e03",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -170,7 +170,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1f01ee3eba27f109",
+  "active": "0fa793f26af72e03",
   "lastOpenFiles": [
     "Untitled.md",
     "07. System/01. Templates/daily-note-template.md",
