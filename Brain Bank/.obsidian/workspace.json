@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07591345696e5c9c",
+        "id": "16ba608b966e01f4",
         "type": "tabs",
         "children": [
           {
-            "id": "a817c6b45c37bda6",
+            "id": "1bb69773325cd526",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -179,7 +179,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a817c6b45c37bda6",
+  "active": "1bb69773325cd526",
   "lastOpenFiles": [
     "01. Kanban/Board - My Tasks.md",
     "Untitled.md",
