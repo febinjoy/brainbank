@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "16ba608b966e01f4",
+        "id": "aa03c686b08594f5",
         "type": "tabs",
         "children": [
           {
-            "id": "1bb69773325cd526",
+            "id": "6fcd449067db1fe4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "01. Kanban/Board - My Tasks.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Kanban/Board - My Tasks.md",
+                "file": "01. Kanban/Tasks/Read Me.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Kanban/Board - My Tasks.md",
+                "file": "01. Kanban/Tasks/Read Me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Kanban/Board - My Tasks.md"
+                "file": "01. Kanban/Tasks/Read Me.md"
               }
             }
           },
@@ -179,7 +177,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1bb69773325cd526",
+  "active": "a3e63fa0d38278a6",
   "lastOpenFiles": [
     "01. Kanban/Board - My Tasks.md",
     "Untitled.md",
@@ -213,7 +211,7 @@
     "02. Dashboards/Dashboard Files",
     "07. System/02. Artifacts/dashboard.jpg",
     "07. System/01. Templates/Checked",
-    "12. People",
+    "12. Entities",
     "07. System/03. Logs",
     "01. Kanban/Tasks",
     "05. Chronicle/04. Quarterly",
