@@ -1,0 +1,10 @@
+/* for changing the header colours */
+.theme-dark
+{
+    --h1-color: #919d67;
+    --h2-color: #69906a;
+    --h3-color: #637b5d;
+    --h4-color: #4d735f;
+    --h5-color: #3c6962;
+    --h6-color: #315f62;
+}

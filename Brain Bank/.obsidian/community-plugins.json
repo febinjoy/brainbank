@@ -3,11 +3,21 @@
   "better-word-count",
   "obsidian-dictionary-plugin",
   "merge-notes",
-  "mononote",
   "obsidian-reading-time",
   "better-export-pdf",
   "auto-card-link",
   "homepage",
   "obsidian-prozen",
-  "file-diff"
+  "file-diff",
+  "calendar",
+  "periodic-notes",
+  "recent-files-obsidian",
+  "obsidian-kanban",
+  "obsidian-vault-changelog",
+  "dataview",
+  "obsidian-file-color",
+  "html-tabs",
+  "keyword-highlighter",
+  "obsidian-day-planner",
+  "obsidian-plantuml"
 ]

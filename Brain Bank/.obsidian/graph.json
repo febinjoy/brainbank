@@ -3,64 +3,92 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Workbench  ",
+      "query": "path:\"11. Archive\"  ",
       "color": {
         "a": 1,
-        "rgb": 16753208
+        "rgb": 3679018
       }
     },
     {
-      "query": "path:\"07. Archive\"  ",
+      "query": "path:\"10. Workbench\"  ",
       "color": {
         "a": 1,
-        "rgb": 5257786
+        "rgb": 16655118
       }
     },
     {
-      "query": "path:\"06. Tags\"  ",
+      "query": "path:\"09. Canvas\"  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 16535558
       }
     },
     {
-      "query": "path:\"05. System/01. Templates\"  ",
+      "query": "path:\"08. Tags\"  ",
       "color": {
         "a": 1,
-        "rgb": 6645075
+        "rgb": 16356096
       }
     },
     {
-      "query": "path:\"04. Resources\"  ",
+      "query": "path:\"07. System\"  ",
       "color": {
         "a": 1,
-        "rgb": 11361494
+        "rgb": 9337411
       }
     },
     {
-      "query": "path:\"03. My Notes\"  ",
+      "query": "path:\"06. Resources\"  ",
       "color": {
         "a": 1,
-        "rgb": 14935011
+        "rgb": 13428007
       }
     },
     {
-      "query": "path:\"02. Chronicle\"  ",
+      "query": "path:\"05. Chronicle\"  ",
       "color": {
         "a": 1,
-        "rgb": 6053078
+        "rgb": 6465839
       }
     },
     {
-      "query": "path:\"01. Dashboards\"  ",
+      "query": "path:\"04. My Notes\"  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 167114
+      }
+    },
+    {
+      "query": "path:\"03. MoC\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 148732
+      }
+    },
+    {
+      "query": "path:\"02. Dashboards\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3997854
+      }
+    },
+    {
+      "query": "path:\"01. Kanban\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8650923
+      }
+    },
+    {
+      "query": "path:\"12. Entities\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8456457
       }
     }
   ],
@@ -69,11 +97,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3628873693012182,
-  "close": false
+  "scale": 0.16570826947227257,
+  "close": true
 }

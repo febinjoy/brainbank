@@ -1,0 +1,116 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "PS2dNcq__mb71YWXXnulE",
+      "name": "Kanban",
+      "value": "#8400ab"
+    },
+    {
+      "id": "ooLZTxZsQD5mSW8RFqC_h",
+      "name": "Dashboard",
+      "value": "#3b009e"
+    },
+    {
+      "id": "FLXlSLfhphwQ4RCkpabjM",
+      "name": "MOC",
+      "value": "#0244fc"
+    },
+    {
+      "id": "EfUia1n1uDY0WbgTmtIzA",
+      "name": "Notes",
+      "value": "#028cca"
+    },
+    {
+      "id": "6FzlfDia5PEevyJ7wn8F4",
+      "name": "Chronicle",
+      "value": "#62a92f"
+    },
+    {
+      "id": "tobJF2_eKCJP8Hpo1-UnC",
+      "name": "Resources",
+      "value": "#cce527"
+    },
+    {
+      "id": "bKRsd25woHwhJVjEwyzZA",
+      "name": "System",
+      "value": "#f6b600"
+    },
+    {
+      "id": "iWICVDrBY_6QLdpbZp2N8",
+      "name": "Tags",
+      "value": "#f99300"
+    },
+    {
+      "id": "M_be1AljYCKcsuHsjGZiF",
+      "name": "Canvas",
+      "value": "#fc5006"
+    },
+    {
+      "id": "U05_g8EvLW3wcPnBpCdj4",
+      "name": "Workbench",
+      "value": "#fe230e"
+    },
+    {
+      "id": "10dxQMk88XICGyCyCh0e2",
+      "name": "Archive",
+      "value": "#a31746"
+    },
+    {
+      "id": "ALqwID_94oYkG6O_b_apv",
+      "name": "People",
+      "value": "#810909"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "01. Kanban",
+      "color": "PS2dNcq__mb71YWXXnulE"
+    },
+    {
+      "path": "02. Dashboards",
+      "color": "ooLZTxZsQD5mSW8RFqC_h"
+    },
+    {
+      "path": "03. MoC",
+      "color": "FLXlSLfhphwQ4RCkpabjM"
+    },
+    {
+      "path": "04. My Notes",
+      "color": "EfUia1n1uDY0WbgTmtIzA"
+    },
+    {
+      "path": "05. Chronicle",
+      "color": "6FzlfDia5PEevyJ7wn8F4"
+    },
+    {
+      "path": "06. Resources",
+      "color": "tobJF2_eKCJP8Hpo1-UnC"
+    },
+    {
+      "path": "07. System",
+      "color": "bKRsd25woHwhJVjEwyzZA"
+    },
+    {
+      "path": "08. Tags",
+      "color": "iWICVDrBY_6QLdpbZp2N8"
+    },
+    {
+      "path": "11. Archive",
+      "color": "10dxQMk88XICGyCyCh0e2"
+    },
+    {
+      "path": "09. Canvas",
+      "color": "M_be1AljYCKcsuHsjGZiF"
+    },
+    {
+      "path": "10. Workbench",
+      "color": "U05_g8EvLW3wcPnBpCdj4"
+    },
+    {
+      "path": "12. Entities",
+      "color": "ALqwID_94oYkG6O_b_apv"
+    }
+  ]
+}

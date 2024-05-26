@@ -1,0 +1,3 @@
+[[novel]]
+[[short-story]]
+
