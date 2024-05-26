@@ -29,7 +29,7 @@ BrainBank is more than just a collection of notes—it’s a dynamic ecosystem t
   - Instead of creating a new vault within Obsidian, choose the option to **open an existing folder as a vault**.
   - Navigate to the location where you saved the repo.
   - Obsidian will recognize it as a vault and load all the contents.
-  - You may be prompted if you trust the authors of this vault. Choose appropriate option. If you want to review the plugins used, Choose - **Brouse vault in Restricted mode**. For more details, refer section - **[Community plugins used](https://github.com/febinjoy/brainbank/edit/main/README.md#community-plugins-used)** in this document.
+  - You may be prompted if you trust the authors of this vault. Choose appropriate option. If you want to review the plugins used, Choose - **Brouse vault in Restricted mode**. For more details, refer section - **[Community plugins used](https://github.com/febinjoy/brainbank/blob/main/README.md#community-plugins-used)** in this document.
 
 ![image](https://github.com/febinjoy/brainbank/assets/5850455/83947586-af92-47e0-87cc-3e8ae2c9fb4e)
    
@@ -63,44 +63,63 @@ BrainBank, owes its seamless experience to the brilliant minds behind various co
 ## The Plugins That Make BrainBank Shine:
 
 ### Dataview
-Treat your Obsidian Vault as a database which you can query from. Please refer https://github.com/blacksmithgu/obsidian-dataview for more details. 
+Treat your Obsidian Vault as a database which you can query from. Please refer to https://github.com/blacksmithgu/obsidian-dataview for more details. 
 
 ### Calendar
+This plugin for Obsidian creates a simple Calendar view for visualizing and navigating between your daily notes. Please refer to https://github.com/liamcain/obsidian-calendar-plugin for more details. 
 
 ### Kanban
+This plugin helps to create a markdown-backed Kanban boards in Obsidian. Please refer to https://github.com/mgmeyers/obsidian-kanban for more details. 
 
 ### Day Planner
+This plugin acts as a day planner from a task list in Obsidian. Please refer to https://github.com/ivan-lednev/obsidian-day-planner for more details. 
 
 ### Recent Files
+This plugin displays a list of most recently opened files in the sidebar. Please refer to https://github.com/tgrosinger/recent-files-obsidian for more details. 
 
 ### Homepage
+This plugin helps to open a specified note, canvas, or workspace upon launching Obsidian. Please refer to https://github.com/mirnovov/obsidian-homepage for more details. 
 
 ### Better Word Count
+This plugin helps to count the words of a selected text in the editor. Please refer to https://github.com/lukeleppan/better-word-count for more details. 
 
 ### Periodic Notes
+The Periodic Notes plugin expands on the idea of daily notes and introduces weekly and monthly notes. Please refer to https://github.com/liamcain/obsidian-periodic-notes for more details. 
 
 ### Dictionary
+This Plugin adds a Dictionary to the Obsidian. Please refer to https://github.com/phibr0/obsidian-dictionary for more details. 
 
 ### Table od Contents
+This plugin Create a table of contents for a note. Please refer to https://github.com/hipstersmoothie/obsidian-plugin-toc for more details. 
 
 ### Reading Time
+This is a simple plugin to add an estimated reading time for the selected note to the StatusBar. Please refer to https://github.com/avr/obsidian-reading-time for more details. 
 
 ### File Color
+This plugin for Obsidian allows you to select colors for your files and folders in the file explorer. Please refer to https://github.com/ecustic/obsidian-file-color for more details. 
 
 ### Auto Card Link
+Automatically fetches metadata from a url and makes it as a card-styled link. Please refer to https://github.com/nekoshita/obsidian-auto-card-link for more details. 
 
 ### Better Export PDF
+Better Export PDF is an Obsidian PDF export enhancement plugin that adds the ability to export bookmarks outline, export preview and add page numbers to PDF compared to the official PDF export function. Please refer to https://github.com/l1xnan/obsidian-better-export-pdf for more details. 
 
 ### ProZen
+This plugin helps you to enter Zen more to focus on writing. It provides you with a full screen mode providing a distraction free writing more. Please refer to https://github.com/cmoskvitin/obsidian-prozen for more details. 
 
 ### Vault Changelog
+This is a simple plugin that maintains a changelog of recently edited files in your vault. Please refer to https://github.com/badrbouslikhin/obsidian-vault-changelog for more details. 
 
 ### File Diff
+This plugin helps you view the differences between two files with merge options. Please refer to https://github.com/friebetill/obsidian-file-diff for more details. 
 
 ### HTML Tabs
+This plugin allows you to easily embed tab controls in your notes. Please refer to https://github.com/ptournet/obsidian-html-tabs for more details.  
 
 ### Keyword Highlighter
+This plugin allows you to highlight specific keywords in your notes, making it easier to locate and organize important information. Please refer to https://github.com/marcel-goldammer/obsidian-keyword-highlighter for more details. 
 
 ### Merge Notes
+ This is a plugin for Obsidian that allows you to merge notes selected in the context menu into a single note. Please refer to https://github.com/fnya/merge-notes for more details. 
 
 Remember, these plugins are like spices in a rich stew—customize BrainBank to your taste! Explore, contribute, and keep the Obsidian community thriving.
