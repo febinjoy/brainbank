@@ -122,4 +122,7 @@ This plugin allows you to highlight specific keywords in your notes, making it e
 ### Merge Notes
  This is a plugin for Obsidian that allows you to merge notes selected in the context menu into a single note. Please refer to https://github.com/fnya/merge-notes for more details. 
 
+### PlantUML
+This plugin render PlantUML Diagrams in Obsidian. Please refer to https://github.com/joethei/obsidian-plantuml for more details. 
+
 Remember, these plugins are like spices in a rich stew. Customize BrainBank to your taste! Explore, contribute, and keep the Obsidian community thriving.
