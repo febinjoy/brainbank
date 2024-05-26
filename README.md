@@ -1,5 +1,8 @@
 # Brain Bank: Your Obsidian Knowledge Repository
 
+![image](https://github.com/febinjoy/brainbank/assets/5850455/50ce06ea-7cd1-4cee-b657-1b0bbe0b067c)
+
+
 Welcome to the **Brain Bank**!, a meticulously crafted knowledge repository designed to enhance your note-taking experience. Whether you’re a seasoned researcher, a creative writer, or a curious learner, or an experienced programmer, BrainBank provides a robust foundation for organising your thoughts, ideas, and insights. Whether you’re storing research notes, creative sparks, or project outlines, this vault could act as your digital brain.
 
 ## What Is BrainBank?
@@ -121,5 +124,8 @@ This plugin allows you to highlight specific keywords in your notes, making it e
 
 ### Merge Notes
  This is a plugin for Obsidian that allows you to merge notes selected in the context menu into a single note. Please refer to https://github.com/fnya/merge-notes for more details. 
+
+### PlantUML
+This plugin render PlantUML Diagrams in Obsidian. Please refer to https://github.com/joethei/obsidian-plantuml for more details. 
 
 Remember, these plugins are like spices in a rich stew. Customize BrainBank to your taste! Explore, contribute, and keep the Obsidian community thriving.
