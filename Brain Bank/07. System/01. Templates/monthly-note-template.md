@@ -6,6 +6,7 @@ tags:
 ###### Header
 Created by: [[@myself]]
 Type: [[chronicle-monthly]]
+Quarter: [[{{date:yyyy-Qo}}]]
 Year: [[{{date:yyyy}}]]
 MoC: 
 # {{Title}}

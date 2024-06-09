@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "aa03c686b08594f5",
+        "id": "a1d846ec1888a44d",
         "type": "tabs",
         "children": [
           {
-            "id": "6fcd449067db1fe4",
+            "id": "57a703bde436e9f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "07. System/01. Templates/action-item-template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -82,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Kanban/Tasks/Read Me.md",
+                "file": "07. System/01. Templates/action-item-template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Kanban/Tasks/Read Me.md",
+                "file": "07. System/01. Templates/action-item-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Kanban/Tasks/Read Me.md"
+                "file": "07. System/01. Templates/action-item-template.md"
               }
             }
           },
@@ -158,7 +163,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,7 +183,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a3e63fa0d38278a6",
+  "active": "57a703bde436e9f6",
   "lastOpenFiles": [
     "01. Kanban/Board - My Tasks.md",
     "Untitled.md",
@@ -185,7 +191,6 @@
     "07. System/01. Templates/checklist-template.md",
     "07. System/01. Templates/dashboard-template.md",
     "07. System/01. Templates/discussion-template.md",
-    "07. System/01. Templates/analysis-template.md",
     "02. Dashboards/Dashboard.canvas",
     "09. Canvas/My Canvas.canvas",
     "08. Tags/$idea.md",
@@ -215,8 +220,7 @@
     "07. System/03. Logs",
     "01. Kanban/Tasks",
     "05. Chronicle/04. Quarterly",
-    "05. Chronicle/04. Yearly",
-    "05. Chronicle/03. Monthly",
-    "05. Chronicle/02. Weekly"
+    "05. Chronicle/05. Yearly",
+    "05. Chronicle/03. Monthly"
   ]
 }

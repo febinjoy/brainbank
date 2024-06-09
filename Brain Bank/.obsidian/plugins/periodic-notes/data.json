@@ -21,15 +21,15 @@
     "enabled": true
   },
   "quarterly": {
-    "format": "",
-    "template": "",
-    "folder": "",
-    "enabled": false
+    "format": "yyyy-Qo",
+    "template": "07. System/01. Templates/quarterly-note-template.md",
+    "folder": "05. Chronicle/04. Quarterly",
+    "enabled": true
   },
   "yearly": {
     "format": "",
     "template": "07. System/01. Templates/yearly-note-template.md",
-    "folder": "05. Chronicle/04. Yearly",
+    "folder": "05. Chronicle/05. Yearly",
     "enabled": true
   }
 }

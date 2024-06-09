@@ -8,6 +8,7 @@ Created by: [[@myself]]
 Type: [[chronicle-daily]]
 Week: [[{{date:yyyy-[W]ww}}]]
 Month: [[{{date:yyyy-MM}}]]
+Quarter: [[{{date:yyyy-Qo}}]]
 Year: [[{{date:yyyy}}]]
 Rating: [[rating-★★★★☆]]
 MoC: 

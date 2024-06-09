@@ -6,6 +6,7 @@ tags:
 ###### Header
 Type: [[chronicle-weekly]]
 Month: [[{{date:yyyy-MM}}]]
+Quarter: [[{{date:yyyy-Qo}}]]
 Year: [[{{date:yyyy}}]]
 MoC: 
 # {{Title}}
