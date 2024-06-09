@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -33,6 +33,13 @@
       "color": {
         "a": 1,
         "rgb": 16356096
+      }
+    },
+    {
+      "query": "path:\"07. System/01. Templates\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4079149
       }
     },
     {
@@ -102,6 +109,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.16570826947227257,
+  "scale": 0.22920135941749306,
   "close": true
 }

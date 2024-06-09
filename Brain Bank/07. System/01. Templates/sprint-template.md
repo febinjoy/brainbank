@@ -1,10 +1,11 @@
 ---
 tags:
   - sprint
+type: "[[$sprint]]"
 ---
 ###### Header
-Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
-Type: [[$sprint]]
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy-Qo}}]], [[{{date:yyyy}}]]
+Type: 
 Sprint Start Date: 
 Sprint End Date: 
 Stake-Holders: [[@myself]]

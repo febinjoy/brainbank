@@ -2,11 +2,10 @@
 tags:
   - person
   - entity
+type: "[[$person]]"
+relation: "[[rel-colleague]]"
 ---
-Type: [[$person]]
-Relation: [[rel-colleague]]
-
-## {{Title}}
+# {{Title}}
 
 ## Details
 

@@ -2,11 +2,10 @@
 tags:
   - team
   - entity
+type: "[[$team]]"
+organisation:
 ---
-Type: [[$team]]
-Organisation:
-
-## {{Title}}
+# {{Title}}
 
 ## Details
 

@@ -1,13 +1,13 @@
 ---
 tags:
   - action-item
+type: "[[$action-item]]"
+status: "[[status-todo]]"
+priority: "[[priority-medium]]"
+responsible: "[[@myself]]"
 ---
 ###### Header
-Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
-Type: [[$action-item]]
-Status: [[status-todo]]
-Priority: [[priority-medium]]
-Responsible: [[@myself]]
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy-Qo}}]], [[{{date:yyyy}}]]
 Planned Start Date: 
 Planned End Date: 
 Stake-Holders: 

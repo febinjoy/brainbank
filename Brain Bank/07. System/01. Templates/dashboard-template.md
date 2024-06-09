@@ -3,9 +3,8 @@ tags:
   - dashboard
 cssclasses:
   - widenote
+type: "[[$dashboard]]"
 ---
-###### Header
-Type: [[$dashboard]]
 # {{Title}}
 
 ~~~tabs

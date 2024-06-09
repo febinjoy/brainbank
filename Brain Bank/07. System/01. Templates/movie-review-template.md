@@ -2,11 +2,11 @@
 tags:
   - review
   - movie-review
+type: "[[$movie-review]]"
+reviewer: "[[@myself]]"
 ---
 ###### Header
-Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
-Type: [[$movie-review]], [[$review]]
-Reviewer: [[@myself]]
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy-Qo}}]], [[{{date:yyyy}}]]
 MoC: [[fiction]], [[movie]]
 # {{Title}}
 

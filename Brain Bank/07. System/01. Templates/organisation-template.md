@@ -2,11 +2,10 @@
 tags:
   - organisation
   - entity
+type: "[[$organisation]]"
+relation: "[[rel-employer]]"
 ---
-Type: [[$organisation]]
-Relation: [[rel-employer]]
-
-## {{Title}}
+# {{Title}}
 
 ## Details
 

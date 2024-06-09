@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a1d846ec1888a44d",
+        "id": "fc4af09c3207d8bd",
         "type": "tabs",
         "children": [
           {
-            "id": "57a703bde436e9f6",
+            "id": "98bcba7f065c358b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "07. System/01. Templates/action-item-template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "01. Kanban/Board - My Tasks.md"
               }
             }
           }
@@ -49,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#yearly",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 335.5
   },
   "right": {
     "id": "794953523c45717b",
@@ -87,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07. System/01. Templates/action-item-template.md",
+                "file": "01. Kanban/Board - My Tasks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07. System/01. Templates/action-item-template.md",
+                "file": "01. Kanban/Board - My Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07. System/01. Templates/action-item-template.md"
+                "file": "01. Kanban/Board - My Tasks.md"
               }
             }
           },
@@ -163,8 +160,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,35 +179,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "57a703bde436e9f6",
+  "active": "a3e63fa0d38278a6",
   "lastOpenFiles": [
-    "01. Kanban/Board - My Tasks.md",
-    "Untitled.md",
-    "07. System/01. Templates/daily-note-template.md",
-    "07. System/01. Templates/checklist-template.md",
-    "07. System/01. Templates/dashboard-template.md",
-    "07. System/01. Templates/discussion-template.md",
+    "08. Tags/state-archived.md",
+    "03. MoC/sports.md",
+    "03. MoC/short-story.md",
+    "03. MoC/self-help.md",
+    "03. MoC/science-fiction.md",
+    "03. MoC/rom-com.md",
+    "03. MoC/podcast.md",
+    "03. MoC/novel.md",
+    "03. MoC/note.md",
+    "03. MoC/non-fiction.md",
+    "03. MoC/music.md",
+    "03. MoC/movie.md",
+    "03. MoC/fiction.md",
+    "03. MoC/education.md",
+    "03. MoC/crime-thriller.md",
+    "03. MoC/book.md",
     "02. Dashboards/Dashboard.canvas",
-    "09. Canvas/My Canvas.canvas",
-    "08. Tags/$idea.md",
+    "01. Kanban/Board - My Tasks.md",
     "01. Kanban/Tasks/Read Me.md",
-    "07. System/01. Templates/process-improvement-template.md",
-    "07. System/01. Templates/temporary-note-template.md",
+    "09. Canvas/My Canvas.canvas",
     "10. Workbench/Workbench Note.md",
     "11. Archive/Archived Note.md",
-    "07. System/01. Templates/meeting-notes-template.md",
-    "07. System/01. Templates/team-template.md",
-    "07. System/01. Templates/tailored-response-template.md",
-    "07. System/01. Templates/sprint-template.md",
-    "07. System/01. Templates/requirement-spec-template.md",
-    "07. System/01. Templates/reference-template.md",
-    "07. System/01. Templates/quick-reference-template.md",
-    "07. System/01. Templates/podcast-review-template.md",
-    "07. System/01. Templates/person-template.md",
-    "07. System/01. Templates/organisation-template.md",
-    "07. System/01. Templates/note-template.md",
-    "07. System/01. Templates/movie-review-template.md",
-    "05. Chronicle/05. Sprint",
+    "12. Entities/@myself.md",
+    "08. Tags/rel-self.md",
+    "11. Archive/Archived Note1.md",
+    "10. Workbench/Workbench Note1.md",
+    "08. Tags/status-todo.md",
+    "08. Tags/status-rejected.md",
+    "05. Chronicle/04. Quarterly",
+    "05. Chronicle/06. Sprint",
     "09. Canvas/Untitled 1.canvas",
     "02. Dashboards/Dashboard Files",
     "07. System/02. Artifacts/dashboard.jpg",

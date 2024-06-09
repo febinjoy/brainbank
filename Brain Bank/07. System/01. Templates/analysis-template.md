@@ -1,13 +1,13 @@
 ---
 tags:
   - analysis
+type: "[[$analysis]]"
+status: "[[status-in-progress]]"
+priority: "[[priority-medium]]"
+responsible: "[[@myself]]"
 ---
 ###### Header
-Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
-Type: [[$analysis]]
-Status: [[status-in-progress]]
-Priority: [[priority-medium]]
-Responsible: [[@myself]]
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy-Qo}}]], [[{{date:yyyy}}]]
 Start Date: 
 End Date: 
 Stake-Holders: 

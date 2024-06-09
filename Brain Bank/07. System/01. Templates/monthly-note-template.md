@@ -2,12 +2,11 @@
 tags:
   - monthly
   - chronicle
+type: "[[chronicle-monthly]]"
+quarter: "[[{{date:yyyy-Qo}}]]"
+year: "[[{{date:yyyy}}]]"
 ---
 ###### Header
-Created by: [[@myself]]
-Type: [[chronicle-monthly]]
-Quarter: [[{{date:yyyy-Qo}}]]
-Year: [[{{date:yyyy}}]]
 MoC: 
 # {{Title}}
 

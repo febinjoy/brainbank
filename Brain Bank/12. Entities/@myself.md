@@ -1,11 +1,11 @@
 ---
 tags:
   - person
+  - entity
+type: "[[$person]]"
+relation: "[[rel-self]]"
 ---
-Type: [[$person]]
-Relation: [[rel-colleague]]
-
-## @myself
+# @myself
 
 ## Details
 

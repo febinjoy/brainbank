@@ -1,13 +1,13 @@
 ---
 tags:
   - leave
+type: "[[$leave-planner]]"
+status: "[[status-in-progress]]"
+responsible: "[[@myself]]"
+leave-type: "[[leave-annual]]"
 ---
 ###### Header
-Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
-Type: [[$leave-planner]]
-Status: [[status-in-progress]]
-Leave Type: [[leave-annual]]
-Responsible: [[@myself]]
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy-Qo}}]], [[{{date:yyyy}}]]
 Leave Start Date: 
 Leave End Date: 
 Approval required from: 
@@ -28,5 +28,5 @@ MoC:
 - [ ] Tasks
 ## Comms
 
-Refer [[Out of Office - Tailored Response]]
+Refer [[Out of Office - Tailored Response1]]
 ## Notes

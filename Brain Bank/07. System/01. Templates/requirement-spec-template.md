@@ -3,13 +3,13 @@ tags:
   - specification
   - requirement
   - requirement-specification
+type: "[[$requirements-spec]]"
+status: "[[status-pending-approval]]"
+priority: "[[priority-high]]"
+responsible: "[[@myself]]"
 ---
 ###### Header
-Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
-Type: [[$requirements-spec]]
-Status: [[status-pending-approval]]
-Priority: [[priority-high]]
-Responsible: [[@myself]]
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy-Qo}}]], [[{{date:yyyy}}]]
 Planned Start Date: 
 Planned End Date: 
 Deadline: 

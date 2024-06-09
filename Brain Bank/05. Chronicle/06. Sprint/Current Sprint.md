@@ -1,10 +1,11 @@
 ---
 tags:
   - sprint
+type: "[[$sprint]]"
 ---
 ###### Header
-Created: [[2024-05-24]], [[2024-W21]], [[2024-05]], [[2024]]
-Type: [[$sprint]]
+Created: [[2024-06-09]], [[2024-W23]], [[2024-06]], [[2024-2nd]], [[2024]]
+Type: 
 Sprint Start Date: 
 Sprint End Date: 
 Stake-Holders: [[@myself]]

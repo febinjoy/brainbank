@@ -1,14 +1,14 @@
 ---
 tags:
   - process-improvement
+type: "[[$process-improvement]]"
+status: "[[status-evaluation]]"
+state: "[[state-seed]]"
+priority: "[[priority-high]]"
+responsible: "[[@myself]]"
 ---
 ###### Header
-Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
-Type: [[$process-improvement]]
-Status: [[status-evaluation]]
-State: [[state-seed]]
-Priority: [[priority-high]]
-Responsible: [[@myself]]
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy-Qo}}]], [[{{date:yyyy}}]]
 Start Date: 
 Due Date: 
 Stake-Holders: 

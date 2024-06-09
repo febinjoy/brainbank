@@ -1,11 +1,11 @@
 ---
 tags:
   - discussion
+type: "[[$discussion]]"
+priority: "[[priority-medium]]"
 ---
 ###### Header
-Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
-Type: [[$discussion]]
-Priority: [[priority-medium]]
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy-Qo}}]], [[{{date:yyyy}}]]
 Date of Discussion: 
 Stake-Holders: [[@myself]]
 MoC: 

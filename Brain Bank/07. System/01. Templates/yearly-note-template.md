@@ -2,10 +2,9 @@
 tags:
   - yearly
   - chronicle
+type: "[[chronicle-yearly]]"
 ---
 ###### Header
-Created by: [[@myself]]
-Type: [[chronicle-yearly]]
 MoC: 
 # {{Title}}
 

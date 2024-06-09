@@ -1,12 +1,12 @@
 ---
 tags:
   - meeting-notes
+type: "[[$meeting-note]]"
+priority: "[[priority-medium]]"
 ---
 ###### Header
-Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
-Type: [[$meeting-note]]
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy-Qo}}]], [[{{date:yyyy}}]]
 MoC: 
-Priority: [[priority-medium]]
 Date of meeting: 
 Venue: 
 Previous meeting note: 

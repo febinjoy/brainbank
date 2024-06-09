@@ -1,13 +1,13 @@
 ---
 tags:
   - how-to
+type: "[[$how-to]]"
+state: "[[state-seed]]"
+status: "[[status-in-progress]]"
+priority: "[[priority-medium]]"
 ---
 ###### Header
-Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
-Type: [[$how-to]]
-State: [[state-seed]]
-Status: [[status-in-progress]]
-Priority: [[priority-medium]]
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy-Qo}}]], [[{{date:yyyy}}]]
 Rating: [[rating-★★★★☆]]
 MoC: 
 # {{Title}}

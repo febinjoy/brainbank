@@ -1,12 +1,12 @@
 ---
 tags:
   - idea
+responsible: "[[@myself]]"
+type: "[[$idea]]"
+state: "[[state-seed]]"
 ---
 ###### Header
-Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
-Created by: [[@myself]]
-Type: [[$idea]]
-State: [[state-seed]]
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy-Qo}}]], [[{{date:yyyy}}]]
 Rating: [[rating-★★★★☆]]
 MoC: 
 # {{Title}}

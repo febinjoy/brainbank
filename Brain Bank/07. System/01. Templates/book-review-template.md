@@ -2,12 +2,12 @@
 tags:
   - book-review
   - review
+type: "[[$book-review]]"
+status: "[[status-in-progress]]"
+reviewer: "[[@myself]]"
 ---
 ###### Header
-Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
-Type: [[$book-review]], [[$review]]
-Status: [[status-in-progress]]
-Reviewer: [[@myself]]
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy-Qo}}]], [[{{date:yyyy}}]]
 MoC: [[fiction]], [[book]]
 # {{Title}}
 

@@ -1,13 +1,13 @@
 ---
 tags:
   - tutorials-planner
+type: "[[$tutorials-planner]]"
+status: "[[status-evaluation]]"
+priority: "[[priority-medium]]"
+responsible: "[[@myself]]"
 ---
 ###### Header
-Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
-Type: [[$action-item]]
-Status: [[status-evaluation]]
-Priority: [[priority-medium]]
-Responsible: [[@myself]]
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy-Qo}}]], [[{{date:yyyy}}]]
 Planned Start Date: 
 Planned End Date: 
 Stake-Holders: 

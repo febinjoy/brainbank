@@ -2,11 +2,11 @@
 tags:
   - review
   - podcast-review
+type: "[[$podcast-review]]"
+reviewer: "[[@myself]]"
 ---
 ###### Header
-Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
-Type: [[$podcast-review]], [[$review]]
-Reviewer: [[@myself]]
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy-Qo}}]], [[{{date:yyyy}}]]
 MoC: [[self-help]], [[podcast]]
 # {{Title}}
 

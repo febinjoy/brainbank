@@ -1,14 +1,18 @@
 ---
-cssclasses:
+tags:
+  - response
+  - tailored-response
+type: "[[$tailored-response]]"
+state: "[[state-tree]]"
 ---
-Created on: 
-Type: [[$response]], [[$tailored-response]]
-State: [[state-tree]]
-# Out of Office - Tailored Response 
+###### Header
+Created: [[2024-06-09]], [[2024-W23]], [[2024-06]], [[2024-2nd]], [[2024]]
+# Out of Office - Tailored Response
 
 ## What is this response for?
 
 To be used when you go on a leave to set - *out of office* message.
+
 ## Response
 ### Out of Office - Within the organisation
 

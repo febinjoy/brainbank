@@ -1,13 +1,13 @@
 ---
 tags:
   - troubleshooting
+type: "[[$troubleshooting]]"
+status: "[[status-evaluation]]"
+priority: "[[priority-medium]]"
+responsible: "[[@myself]]"
 ---
 ###### Header
-Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy}}]]
-Type: [[$troubleshooting]]
-Status: [[status-evaluation]]
-Priority: [[priority-medium]]
-Responsible: [[@myself]]
+Created: [[{{date}}]], [[{{date:yyyy-[W]ww}}]], [[{{date:yyyy-MM}}]], [[{{date:yyyy-Qo}}]], [[{{date:yyyy}}]]
 Reported by: 
 Due Date: 
 Stake-Holders: 
