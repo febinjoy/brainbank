@@ -61,6 +61,11 @@
       "id": "ALqwID_94oYkG6O_b_apv",
       "name": "People",
       "value": "#810909"
+    },
+    {
+      "id": "BD6jyWKiltd8Hi7MIdltg",
+      "name": "Scribbles",
+      "value": "#23c6d1"
     }
   ],
   "fileColors": [
@@ -111,6 +116,54 @@
     {
       "path": "12. Entities",
       "color": "ALqwID_94oYkG6O_b_apv"
+    },
+    {
+      "path": "04. My Notes/02. Scribbles",
+      "color": "BD6jyWKiltd8Hi7MIdltg"
+    },
+    {
+      "path": "04. My Notes/01. Ideas",
+      "color": "EfUia1n1uDY0WbgTmtIzA"
+    },
+    {
+      "path": "05. Chronicle/01. Daily",
+      "color": "6FzlfDia5PEevyJ7wn8F4"
+    },
+    {
+      "path": "05. Chronicle/02. Weekly",
+      "color": "6FzlfDia5PEevyJ7wn8F4"
+    },
+    {
+      "path": "05. Chronicle/03. Monthly",
+      "color": "6FzlfDia5PEevyJ7wn8F4"
+    },
+    {
+      "path": "05. Chronicle/04. Quarterly",
+      "color": "6FzlfDia5PEevyJ7wn8F4"
+    },
+    {
+      "path": "05. Chronicle/05. Yearly",
+      "color": "6FzlfDia5PEevyJ7wn8F4"
+    },
+    {
+      "path": "05. Chronicle/06. Sprint",
+      "color": "6FzlfDia5PEevyJ7wn8F4"
+    },
+    {
+      "path": "01. Kanban/Tasks",
+      "color": "PS2dNcq__mb71YWXXnulE"
+    },
+    {
+      "path": "07. System/01. Templates",
+      "color": "bKRsd25woHwhJVjEwyzZA"
+    },
+    {
+      "path": "07. System/02. Artefacts",
+      "color": "bKRsd25woHwhJVjEwyzZA"
+    },
+    {
+      "path": "07. System/03. Logs",
+      "color": "bKRsd25woHwhJVjEwyzZA"
     }
   ]
 }

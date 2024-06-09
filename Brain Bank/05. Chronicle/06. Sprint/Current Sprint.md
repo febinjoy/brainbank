@@ -18,7 +18,7 @@ MoC:
 - [[#Unplanned items|Unplanned items]]
 - [[#Details|Details]]
 	- [[#Details#Highlights|Highlights]]
-	- [[#Details#Learnings|Learnings]]
+	- [[#Details#Learning|Learning]]
 	- [[#Details#Shout outs|Shout outs]]
 - [[#What didn't go well?|What didn't go well?]]
 	- [[#What didn't go well?#Issue|Issue]]

@@ -64,6 +64,13 @@
       }
     },
     {
+      "query": "path:\"04. My Notes/02. Scribbles\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3245930
+      }
+    },
+    {
       "query": "path:\"04. My Notes\"  ",
       "color": {
         "a": 1,
